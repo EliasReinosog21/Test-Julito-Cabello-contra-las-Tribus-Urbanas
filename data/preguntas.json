@@ -1,0 +1,2602 @@
+[
+  {
+    "id": "c01-alt-01",
+    "tipo": "alternativa",
+    "cap": 1,
+    "habilidad": "literal",
+    "puntos": 1,
+    "pregunta": "¿Por qué la familia Cabello sale a comer al comienzo de la historia?",
+    "opciones": [
+      "Para celebrar el cumpleaños de María.",
+      "Para celebrar que Julio y Rosa terminaron sus libros.",
+      "Para despedir a Rodrigo antes de su viaje.",
+      "Para inaugurar El inka guatón."
+    ],
+    "correcta": 1,
+    "explicacion": "La salida es una celebración porque ambos padres terminaron los libros en los que habían trabajado durante meses."
+  },
+  {
+    "id": "c01-alt-02",
+    "tipo": "alternativa",
+    "cap": 1,
+    "habilidad": "literal",
+    "puntos": 1,
+    "pregunta": "¿Por qué la familia elige un restaurante vegetariano?",
+    "opciones": [
+      "Porque es el único abierto.",
+      "Porque Beltrán quiere comer verduras.",
+      "Porque Rosa es vegetariana.",
+      "Porque Julio trabaja allí."
+    ],
+    "correcta": 2,
+    "explicacion": "Rosa no come carne, por eso van a La sana zanahoria."
+  },
+  {
+    "id": "c01-alt-03",
+    "tipo": "alternativa",
+    "cap": 1,
+    "habilidad": "vocabulario",
+    "puntos": 1,
+    "pregunta": "En el libro se dice que una lechuga mutante y un apio ninja son las “némesis” del súper salami. ¿Qué significa “némesis”?",
+    "opciones": [
+      "Ayudantes del héroe.",
+      "Enemigos o rivales principales.",
+      "Comidas favoritas.",
+      "Disfraces secretos."
+    ],
+    "correcta": 1,
+    "explicacion": "Una némesis es un adversario o enemigo importante."
+  },
+  {
+    "id": "c02-alt-01",
+    "tipo": "alternativa",
+    "cap": 2,
+    "habilidad": "acontecimientos",
+    "puntos": 1,
+    "pregunta": "¿Qué encuentra la familia cuando regresa a su casa?",
+    "opciones": [
+      "La casa inundada.",
+      "La puerta abierta, la chapa rota y todo desordenado.",
+      "A Rodrigo esperando con sus maletas.",
+      "Una fiesta organizada por los trabajadores."
+    ],
+    "correcta": 1,
+    "explicacion": "La familia descubre que entraron a robar a la casa y al restaurante."
+  },
+  {
+    "id": "c02-alt-02",
+    "tipo": "alternativa",
+    "cap": 2,
+    "habilidad": "inferencial",
+    "puntos": 1,
+    "pregunta": "¿Por qué el robo de los computadores fue especialmente grave para Julio y Rosa?",
+    "opciones": [
+      "Porque eran prestados.",
+      "Porque guardaban allí sus libros y no tenían copias de respaldo.",
+      "Porque controlaban las cámaras del restaurante.",
+      "Porque habían comprado los computadores ese mismo día."
+    ],
+    "correcta": 1,
+    "explicacion": "Además de perder los equipos, perdieron meses de trabajo porque los textos no estaban respaldados."
+  },
+  {
+    "id": "c02-alt-03",
+    "tipo": "alternativa",
+    "cap": 2,
+    "habilidad": "literal",
+    "puntos": 1,
+    "pregunta": "¿Cómo se llama el restaurante de la familia Cabello?",
+    "opciones": [
+      "La sana zanahoria.",
+      "El inka guatón.",
+      "La tribu del sabor.",
+      "Cocina creole."
+    ],
+    "correcta": 1,
+    "explicacion": "El restaurante peruano pegado a la casa se llama El inka guatón."
+  },
+  {
+    "id": "c03-alt-01",
+    "tipo": "alternativa",
+    "cap": 3,
+    "habilidad": "personajes",
+    "puntos": 1,
+    "pregunta": "¿Quiénes son Rebolledo y Monsalve?",
+    "opciones": [
+      "Dos trabajadores del restaurante.",
+      "Los policías que reciben la denuncia del robo.",
+      "Compañeros de Julito.",
+      "Vecinos de la familia."
+    ],
+    "correcta": 1,
+    "explicacion": "El sargento Rebolledo y la teniente Monsalve investigan el robo."
+  },
+  {
+    "id": "c03-alt-02",
+    "tipo": "alternativa",
+    "cap": 3,
+    "habilidad": "personajes",
+    "puntos": 1,
+    "pregunta": "¿Quién es Rodrigo Cabello?",
+    "opciones": [
+      "El profesor de Julito.",
+      "El hermano artista de Julio que vuelve desde España.",
+      "El contador del restaurante.",
+      "El nuevo director del colegio."
+    ],
+    "correcta": 1,
+    "explicacion": "Rodrigo es el hermano de Julio y llega para alojarse con la familia."
+  },
+  {
+    "id": "c04-alt-01",
+    "tipo": "alternativa",
+    "cap": 4,
+    "habilidad": "vocabulario",
+    "puntos": 1,
+    "pregunta": "Cuando la familia grita “¡Fighting!”, ¿qué quiere expresar?",
+    "opciones": [
+      "Que comenzará una pelea.",
+      "Que deben guardar silencio.",
+      "Que seguirán adelante y no se rendirán.",
+      "Que tienen hambre."
+    ],
+    "correcta": 2,
+    "explicacion": "En el contexto del libro equivale a “¡Vamos que se puede!”."
+  },
+  {
+    "id": "c05-alt-01",
+    "tipo": "alternativa",
+    "cap": 5,
+    "habilidad": "acontecimientos",
+    "puntos": 1,
+    "pregunta": "¿Cómo ayudan los trabajadores de El inka guatón a la familia?",
+    "opciones": [
+      "Renuncian para reducir gastos.",
+      "Aceptan recibir menos sueldo y proponen organizarse para reabrir.",
+      "Venden el restaurante sin avisar.",
+      "Piden el doble de sueldo."
+    ],
+    "correcta": 1,
+    "explicacion": "Los trabajadores muestran solidaridad y ayudan a encontrar una salida colectiva."
+  },
+  {
+    "id": "c06-alt-01",
+    "tipo": "alternativa",
+    "cap": 6,
+    "habilidad": "literal",
+    "puntos": 1,
+    "pregunta": "¿Qué idioma logra usar Rosa para comunicarse con los trabajadores haitianos?",
+    "opciones": [
+      "Inglés.",
+      "Quechua.",
+      "Creole haitiano.",
+      "Portugués."
+    ],
+    "correcta": 2,
+    "explicacion": "Rosa puede comunicarse en creole gracias a sus conocimientos de francés."
+  },
+  {
+    "id": "c08-alt-01",
+    "tipo": "alternativa",
+    "cap": 8,
+    "habilidad": "personajes",
+    "puntos": 1,
+    "pregunta": "¿Cuál es la expresión que Aarón repite con frecuencia?",
+    "opciones": [
+      "Fighting.",
+      "Hum.",
+      "What.",
+      "Chaíto."
+    ],
+    "correcta": 1,
+    "explicacion": "Aarón se caracteriza porque casi siempre responde “hum”."
+  },
+  {
+    "id": "c08-alt-02",
+    "tipo": "alternativa",
+    "cap": 8,
+    "habilidad": "literal",
+    "puntos": 1,
+    "pregunta": "¿Dónde se encuentra Andrea durante gran parte de estos capítulos?",
+    "opciones": [
+      "En España.",
+      "En Argentina, visitando a su padre.",
+      "En Haití.",
+      "En Japón."
+    ],
+    "correcta": 1,
+    "explicacion": "Andrea está en Argentina y se comunica con Julito mediante mensajes."
+  },
+  {
+    "id": "c10-alt-01",
+    "tipo": "alternativa",
+    "cap": 10,
+    "habilidad": "personajes",
+    "puntos": 1,
+    "pregunta": "¿Cómo se llama el colegio de Julito y quién es su directora?",
+    "opciones": [
+      "San Expedito y doña Lupe.",
+      "San Pancracio y la profesora Desbordes.",
+      "San Expedito y Anita María.",
+      "El Inka y doña Rosa."
+    ],
+    "correcta": 0,
+    "explicacion": "Julito estudia en el colegio San Expedito y la directora es doña Lupe."
+  },
+  {
+    "id": "c11-alt-01",
+    "tipo": "alternativa",
+    "cap": 11,
+    "habilidad": "personajes",
+    "puntos": 1,
+    "pregunta": "¿Quién es Anita María?",
+    "opciones": [
+      "La profesora de Lenguaje.",
+      "La bibliotecaria del colegio.",
+      "La mamá de Andrea.",
+      "La jefa del restaurante."
+    ],
+    "correcta": 1,
+    "explicacion": "Anita María trabaja en la biblioteca del colegio."
+  },
+  {
+    "id": "c12-alt-01",
+    "tipo": "alternativa",
+    "cap": 12,
+    "habilidad": "acontecimientos",
+    "puntos": 1,
+    "pregunta": "¿Qué cambio experimenta el profesor Guaiquil?",
+    "opciones": [
+      "Se convierte en policía.",
+      "Deja la tecnología y se dedica a cultivos orgánicos, con un estilo hípster.",
+      "Se va a trabajar al restaurante.",
+      "Comienza a escribir novelas de zombis."
+    ],
+    "correcta": 1,
+    "explicacion": "Guaiquil cambia su apariencia y sus intereses, acercándose a un estilo hípster y orgánico."
+  },
+  {
+    "id": "c12-alt-02",
+    "tipo": "alternativa",
+    "cap": 12,
+    "habilidad": "vocabulario",
+    "puntos": 1,
+    "pregunta": "Según la explicación del profesor Guaiquil, ¿qué propone la “navaja de Ockham”?",
+    "opciones": [
+      "La explicación más complicada siempre es mejor.",
+      "La respuesta más sencilla suele ser la más adecuada.",
+      "Hay que desconfiar de todas las respuestas.",
+      "Las plantas deben cortarse con cuidado."
+    ],
+    "correcta": 1,
+    "explicacion": "La idea señala que, entre varias explicaciones, suele preferirse la más simple que explique los hechos."
+  },
+  {
+    "id": "c13-alt-01",
+    "tipo": "alternativa",
+    "cap": 13,
+    "habilidad": "acontecimientos",
+    "puntos": 1,
+    "pregunta": "¿Qué revelan Cabezas y Mardones en la biblioteca?",
+    "opciones": [
+      "Que se cambiarán de colegio.",
+      "Que son pareja.",
+      "Que participaron en el robo.",
+      "Que son hermanos."
+    ],
+    "correcta": 1,
+    "explicacion": "La revelación lleva a Julito a reflexionar sobre sus prejuicios."
+  },
+  {
+    "id": "c13-alt-02",
+    "tipo": "alternativa",
+    "cap": 13,
+    "habilidad": "vocabulario",
+    "puntos": 1,
+    "pregunta": "¿Qué significa que una persona sea “prejuiciosa”?",
+    "opciones": [
+      "Que juzga antes de conocer suficientemente a los demás.",
+      "Que siempre dice la verdad.",
+      "Que aprende con rapidez.",
+      "Que evita dar opiniones."
+    ],
+    "correcta": 0,
+    "explicacion": "Un prejuicio es una opinión previa, formada sin información suficiente."
+  },
+  {
+    "id": "c14-alt-01",
+    "tipo": "alternativa",
+    "cap": 14,
+    "habilidad": "literal",
+    "puntos": 1,
+    "pregunta": "¿Por qué Aarón decide hacerse vegano?",
+    "opciones": [
+      "Porque no le gusta la comida del colegio.",
+      "Por razones de salud y por el trato hacia los animales.",
+      "Porque Julito se lo pide.",
+      "Porque quiere ahorrar dinero."
+    ],
+    "correcta": 1,
+    "explicacion": "Aarón relaciona su decisión con la salud y con una postura ética hacia los animales."
+  },
+  {
+    "id": "c15-alt-01",
+    "tipo": "alternativa",
+    "cap": 15,
+    "habilidad": "vocabulario",
+    "puntos": 1,
+    "pregunta": "Según Beltrán, ¿qué es una tribu urbana?",
+    "opciones": [
+      "Un pueblo originario que vive en una ciudad.",
+      "Un grupo que comparte estilos, códigos, gustos y formas de vestir.",
+      "Una banda de ladrones.",
+      "Un equipo deportivo."
+    ],
+    "correcta": 1,
+    "explicacion": "Las tribus urbanas ofrecen identidad y sentido de pertenencia a quienes comparten ciertos códigos."
+  },
+  {
+    "id": "c16-alt-01",
+    "tipo": "alternativa",
+    "cap": 16,
+    "habilidad": "acontecimientos",
+    "puntos": 1,
+    "pregunta": "¿Qué mensaje le envía Andrea a Julito desde Argentina?",
+    "opciones": [
+      "Que regresará al día siguiente.",
+      "Que es mejor darse un tiempo porque está buscando su identidad.",
+      "Que se cambiará de colegio.",
+      "Que se hizo vegana."
+    ],
+    "correcta": 1,
+    "explicacion": "El mensaje deja a Julito preocupado y obliga al personaje a enfrentar lo que siente."
+  },
+  {
+    "id": "c18-alt-01",
+    "tipo": "alternativa",
+    "cap": 18,
+    "habilidad": "literal",
+    "puntos": 1,
+    "pregunta": "¿Qué trabajo extra consigue Rosa?",
+    "opciones": [
+      "Inventar nombres para lápices labiales.",
+      "Enseñar francés.",
+      "Vender los cuadros de Rodrigo.",
+      "Escribir noticias deportivas."
+    ],
+    "correcta": 0,
+    "explicacion": "Rosa comienza a inventar nombres llamativos para productos de maquillaje."
+  },
+  {
+    "id": "c18-alt-02",
+    "tipo": "alternativa",
+    "cap": 18,
+    "habilidad": "personajes",
+    "puntos": 1,
+    "pregunta": "¿A qué tribu urbana perteneció Moncho cuando era joven?",
+    "opciones": [
+      "Hippie.",
+      "Punk.",
+      "Metalero.",
+      "Otaku."
+    ],
+    "correcta": 2,
+    "explicacion": "Moncho cuenta que fue metalero y recuerda sus conciertos y su forma de vestir."
+  },
+  {
+    "id": "c02-vf-01",
+    "tipo": "verdadero_falso",
+    "cap": 2,
+    "habilidad": "literal",
+    "puntos": 1,
+    "afirmacion": "Julio y Rosa tenían copias de sus libros guardadas en internet.",
+    "correcta": false,
+    "explicacion": "No tenían respaldo en la nube, por eso perdieron meses de trabajo."
+  },
+  {
+    "id": "c04-vf-01",
+    "tipo": "verdadero_falso",
+    "cap": 4,
+    "habilidad": "literal",
+    "puntos": 1,
+    "afirmacion": "María sorprende a la familia al levantar el puño y decir “¡Fighting!”.",
+    "correcta": true,
+    "explicacion": "La intervención de María anima a la familia en un momento difícil."
+  },
+  {
+    "id": "c05-vf-01",
+    "tipo": "verdadero_falso",
+    "cap": 5,
+    "habilidad": "personajes",
+    "puntos": 1,
+    "afirmacion": "Los “Bertos” son los ladrones que entraron a la casa de la familia Cabello.",
+    "correcta": false,
+    "explicacion": "Los Bertos son trabajadores del restaurante y ayudan a la familia."
+  },
+  {
+    "id": "c06-vf-01",
+    "tipo": "verdadero_falso",
+    "cap": 6,
+    "habilidad": "literal",
+    "puntos": 1,
+    "afirmacion": "Rosa logra hablar con los trabajadores haitianos usando creole.",
+    "correcta": true,
+    "explicacion": "Sus conocimientos de francés le permiten comunicarse en creole."
+  },
+  {
+    "id": "c08-vf-01",
+    "tipo": "verdadero_falso",
+    "cap": 8,
+    "habilidad": "literal",
+    "puntos": 1,
+    "afirmacion": "Andrea se encuentra en Argentina y está reflexionando sobre su identidad.",
+    "correcta": true,
+    "explicacion": "Su viaje y sus mensajes muestran que está en un proceso de búsqueda personal."
+  },
+  {
+    "id": "c13-vf-01",
+    "tipo": "verdadero_falso",
+    "cap": 13,
+    "habilidad": "inferencial",
+    "puntos": 1,
+    "afirmacion": "Julito comprende de inmediato y sin prejuicios la relación entre Cabezas y Mardones.",
+    "correcta": false,
+    "explicacion": "Al principio reacciona con ideas preconcebidas y luego comienza a cuestionarlas."
+  },
+  {
+    "id": "c15-vf-01",
+    "tipo": "verdadero_falso",
+    "cap": 15,
+    "habilidad": "vocabulario",
+    "puntos": 1,
+    "afirmacion": "Beltrán explica que las tribus urbanas son lo mismo que los pueblos originarios.",
+    "correcta": false,
+    "explicacion": "Aclara que son agrupaciones urbanas con estilos y códigos compartidos."
+  },
+  {
+    "id": "c18-vf-01",
+    "tipo": "verdadero_falso",
+    "cap": 18,
+    "habilidad": "personajes",
+    "puntos": 1,
+    "afirmacion": "Moncho cuenta que durante su juventud fue metalero.",
+    "correcta": true,
+    "explicacion": "Su relato muestra que también tuvo una identidad ligada a una tribu urbana."
+  },
+  {
+    "id": "c02-ab-01",
+    "tipo": "abierta",
+    "cap": 2,
+    "habilidad": "acontecimientos",
+    "puntos": 2,
+    "pregunta": "Escribe dos consecuencias que tuvo el robo para la familia Cabello.",
+    "respuestaModelo": "Entre las consecuencias están la pérdida de objetos y ropa, la pérdida de los libros guardados en los computadores, el cierre temporal del restaurante y los problemas económicos.",
+    "criterios": [
+      "Menciona una consecuencia correcta.",
+      "Menciona una segunda consecuencia diferente y correcta."
+    ]
+  },
+  {
+    "id": "c02-ab-02",
+    "tipo": "abierta",
+    "cap": 2,
+    "habilidad": "inferencial",
+    "puntos": 2,
+    "pregunta": "Explica por qué la pérdida de los computadores fue una “doble desgracia” para los padres de Julito.",
+    "respuestaModelo": "Porque no solo perdieron equipos costosos, sino también los únicos archivos de sus libros, que representaban meses de trabajo.",
+    "criterios": [
+      "Explica la pérdida material de los computadores.",
+      "Explica la pérdida de los textos o del trabajo acumulado."
+    ]
+  },
+  {
+    "id": "c05-ab-01",
+    "tipo": "abierta",
+    "cap": 5,
+    "habilidad": "reflexion",
+    "puntos": 2,
+    "pregunta": "¿Qué demuestra la reacción de los trabajadores de El inka guatón frente a los problemas de la familia?",
+    "respuestaModelo": "Demuestra solidaridad, compromiso y capacidad para colaborar, porque aceptan sacrificios y proponen soluciones para reabrir el restaurante.",
+    "criterios": [
+      "Identifica una cualidad, como solidaridad o compromiso.",
+      "Fundamenta con una acción realizada por los trabajadores."
+    ]
+  },
+  {
+    "id": "c06-ab-01",
+    "tipo": "abierta",
+    "cap": 6,
+    "habilidad": "inferencial",
+    "puntos": 2,
+    "pregunta": "¿Qué descubre Julito sobre su mamá cuando la escucha hablar creole?",
+    "respuestaModelo": "Descubre que su mamá tuvo experiencias, conocimientos y una vida propia antes de ser madre, algo en lo que él nunca había pensado.",
+    "criterios": [
+      "Reconoce que Julito descubre una faceta desconocida de su madre.",
+      "Explica que comprende que ella tuvo una vida previa y conocimientos propios."
+    ]
+  },
+  {
+    "id": "c13-ab-01",
+    "tipo": "abierta",
+    "cap": 13,
+    "habilidad": "reflexion",
+    "puntos": 2,
+    "pregunta": "¿Qué aprende Julito después de conversar con Cabezas y Mardones?",
+    "respuestaModelo": "Aprende que no debe juzgar a las personas mediante estereotipos y que quienes pertenecen a una minoría merecen respeto y espacio para ser quienes son.",
+    "criterios": [
+      "Menciona el rechazo a los prejuicios o estereotipos.",
+      "Menciona el respeto hacia las diferencias o las minorías."
+    ]
+  },
+  {
+    "id": "c14-ab-01",
+    "tipo": "abierta",
+    "cap": 14,
+    "habilidad": "inferencial",
+    "puntos": 2,
+    "pregunta": "¿Por qué Julito comienza a interesarse en las tribus urbanas?",
+    "respuestaModelo": "Porque observa cambios e identidades distintas en personas cercanas, como Guaiquil, Aarón, Beltrán, Moncho y Andrea, y comienza a preguntarse qué significa pertenecer a un grupo.",
+    "criterios": [
+      "Relaciona el interés con personas cercanas que cambian o pertenecen a grupos.",
+      "Explica que Julito comienza a preguntarse por la identidad y la pertenencia."
+    ]
+  },
+  {
+    "id": "c15-ab-01",
+    "tipo": "abierta",
+    "cap": 15,
+    "habilidad": "vocabulario",
+    "puntos": 2,
+    "pregunta": "Explica con tus palabras qué significa “buscar la propia identidad”.",
+    "respuestaModelo": "Significa descubrir quién se es, qué valores, gustos e ideas se tienen y con qué personas o grupos se siente pertenencia.",
+    "criterios": [
+      "Se refiere a descubrir quién se es.",
+      "Incluye gustos, valores, ideas o sentido de pertenencia."
+    ]
+  },
+  {
+    "id": "c16-ab-01",
+    "tipo": "abierta",
+    "cap": 16,
+    "habilidad": "inferencial",
+    "puntos": 2,
+    "pregunta": "¿Qué conflicto interno vive Julito cuando Andrea le pide darse un tiempo?",
+    "respuestaModelo": "Julito se siente inseguro y teme perderla, pero le cuesta reconocer directamente sus sentimientos y suele esconderlos mediante bromas.",
+    "criterios": [
+      "Identifica preocupación, inseguridad o miedo a perder a Andrea.",
+      "Explica que le cuesta reconocer o expresar lo que siente."
+    ]
+  },
+  {
+    "id": "c18-ab-01",
+    "tipo": "abierta",
+    "cap": 18,
+    "habilidad": "reflexion",
+    "puntos": 2,
+    "pregunta": "Julito suele hacer bromas sobre quienes son diferentes. ¿Comienza a cambiar su forma de pensar? Fundamenta con un ejemplo.",
+    "respuestaModelo": "Sí. Comienza a cuestionar sus prejuicios, por ejemplo cuando comprende lo difícil que puede ser pertenecer a una minoría o cuando reflexiona sobre las decisiones de Aarón y Andrea.",
+    "criterios": [
+      "Responde claramente si existe un cambio.",
+      "Incluye un ejemplo pertinente de los capítulos leídos."
+    ]
+  },
+  {
+    "id": "c19-ab-01",
+    "tipo": "abierta",
+    "cap": 19,
+    "habilidad": "reflexion",
+    "puntos": 3,
+    "pregunta": "¿Qué característica de la familia Cabello les permite enfrentar sus problemas? Explica dos situaciones que la demuestren.",
+    "respuestaModelo": "Puede ser la unión, la perseverancia, la solidaridad o el sentido del humor. Debe justificarse con dos hechos, como reescribir los libros, buscar nuevos trabajos, reabrir el restaurante o apoyarse entre ellos.",
+    "criterios": [
+      "Identifica una característica pertinente.",
+      "Explica una primera situación del libro.",
+      "Explica una segunda situación diferente."
+    ]
+  },
+  {
+    "id": "c01-alt-04",
+    "tipo": "alternativa",
+    "cap": 1,
+    "habilidad": "literal",
+    "puntos": 1,
+    "pregunta": "¿Sobre qué temas trataban los libros que acababan de terminar los padres de Julito?",
+    "opciones": [
+      "Julio escribió sobre un superhéroe salami y Rosa sobre cactus capaces de ayudar a la humanidad.",
+      "Julio escribió sobre fútbol y Rosa sobre viajes espaciales.",
+      "Ambos escribieron libros de cocina peruana.",
+      "Julio escribió sobre zombis y Rosa sobre dragones."
+    ],
+    "correcta": 0,
+    "explicacion": "El libro de Julio presenta al súper salami y el de Rosa imagina que los cactus podrían ayudar a sobrevivir a una catástrofe."
+  },
+  {
+    "id": "c03-alt-03",
+    "tipo": "alternativa",
+    "cap": 3,
+    "habilidad": "acontecimientos",
+    "puntos": 1,
+    "pregunta": "¿Por qué Rodrigo llega antes de lo que esperaba la familia?",
+    "opciones": [
+      "Porque perdió su equipaje.",
+      "Porque encontró un vuelo más barato con muchas escalas.",
+      "Porque la policía lo llamó.",
+      "Porque quería trabajar en el restaurante."
+    ],
+    "correcta": 1,
+    "explicacion": "Rodrigo adelanta su llegada aprovechando un vuelo económico, aunque tenía numerosas escalas."
+  },
+  {
+    "id": "c05-alt-02",
+    "tipo": "alternativa",
+    "cap": 5,
+    "habilidad": "personajes",
+    "puntos": 1,
+    "pregunta": "¿Quiénes son llamados colectivamente “los Bertos”?",
+    "opciones": [
+      "Los policías del barrio.",
+      "Varios trabajadores del restaurante cuyos nombres terminan en “berto”.",
+      "Los amigos artistas de Rodrigo.",
+      "Los compañeros de curso de Beltrán."
+    ],
+    "correcta": 1,
+    "explicacion": "El apodo reúne a Edelberto, Gilberto, Norberto, Wilberto y Alberto, trabajadores de El inka guatón."
+  },
+  {
+    "id": "c05-alt-03",
+    "tipo": "alternativa",
+    "cap": 5,
+    "habilidad": "literal",
+    "puntos": 1,
+    "pregunta": "¿Qué dinero dice Rosa que todavía conserva la familia?",
+    "opciones": [
+      "El premio de un concurso.",
+      "Los ahorros destinados al dentista y a la educación de los niños.",
+      "La recaudación de una fiesta.",
+      "El sueldo del tío Rodrigo."
+    ],
+    "correcta": 1,
+    "explicacion": "Tras el robo, prácticamente solo quedan ahorros que tenían otros propósitos familiares."
+  },
+  {
+    "id": "c05-alt-04",
+    "tipo": "alternativa",
+    "cap": 5,
+    "habilidad": "inferencial",
+    "puntos": 1,
+    "pregunta": "¿Por qué la ayuda ofrecida por Rodrigo resulta poco práctica al comienzo?",
+    "opciones": [
+      "Porque se niega a pintar.",
+      "Porque propone vender cuadros, pero primero necesita que le presten dinero para materiales.",
+      "Porque quiere cerrar el restaurante.",
+      "Porque decide volver de inmediato a España."
+    ],
+    "correcta": 1,
+    "explicacion": "Su propuesta podría generar dinero después, pero inicialmente aumenta los gastos de la familia."
+  },
+  {
+    "id": "c06-alt-02",
+    "tipo": "alternativa",
+    "cap": 6,
+    "habilidad": "literal",
+    "puntos": 1,
+    "pregunta": "¿Qué conocimiento previo le permite a Rosa entenderse en creole?",
+    "opciones": [
+      "Había estudiado francés en el colegio.",
+      "Había vivido en Haití.",
+      "Aprendió quechua en el restaurante.",
+      "Rodrigo le tradujo todo."
+    ],
+    "correcta": 0,
+    "explicacion": "Rosa aprovecha sus conocimientos de francés para comunicarse en creole haitiano."
+  },
+  {
+    "id": "c07-alt-01",
+    "tipo": "alternativa",
+    "cap": 7,
+    "habilidad": "acontecimientos",
+    "puntos": 1,
+    "pregunta": "¿Qué propuesta sorprende a Rosa durante la reconstrucción del restaurante?",
+    "opciones": [
+      "Los trabajadores quieren renunciar.",
+      "Los trabajadores aceptan cobrar menos temporalmente y preparan una propuesta de sociedad.",
+      "La policía comprará el restaurante.",
+      "Rodrigo pagará todas las reparaciones."
+    ],
+    "correcta": 1,
+    "explicacion": "El equipo combina solidaridad con una iniciativa empresarial respaldada por sus ahorros, un contador y un abogado."
+  },
+  {
+    "id": "c09-alt-01",
+    "tipo": "alternativa",
+    "cap": 9,
+    "habilidad": "literal",
+    "puntos": 1,
+    "pregunta": "¿Qué objetos personales descubre Julito que también fueron robados?",
+    "opciones": [
+      "Su bicicleta y sus zapatillas.",
+      "Su Snorlax de mascota y un sacapuntas con forma de emoji.",
+      "Sus libros escolares y su mochila.",
+      "Su teléfono y una cámara."
+    ],
+    "correcta": 1,
+    "explicacion": "Mientras revisan las pérdidas, Julito nota que también faltan objetos pequeños y personales."
+  },
+  {
+    "id": "c09-alt-02",
+    "tipo": "alternativa",
+    "cap": 9,
+    "habilidad": "acontecimientos",
+    "puntos": 1,
+    "pregunta": "¿Qué señales muestran que están preparando la reapertura de El inka guatón?",
+    "opciones": [
+      "Llegan alimentos, ollas, sartenes y vuelve el kétchup de Julito.",
+      "Venden todas las mesas.",
+      "Pintan la fachada de negro.",
+      "Llevan los libros de los padres al colegio."
+    ],
+    "correcta": 0,
+    "explicacion": "La llegada de provisiones y utensilios indica que el restaurante está siendo equipado nuevamente."
+  },
+  {
+    "id": "c10-alt-02",
+    "tipo": "alternativa",
+    "cap": 10,
+    "habilidad": "inferencial",
+    "puntos": 1,
+    "pregunta": "¿Qué detalles del colegio permiten reconocer el estilo de doña Lupe?",
+    "opciones": [
+      "Trofeos deportivos y computadores.",
+      "Incienso, cuarzos y amuletos relacionados con las buenas vibras.",
+      "Uniformes militares y silbatos.",
+      "Afiches de cocina peruana."
+    ],
+    "correcta": 1,
+    "explicacion": "La ambientación del colegio refleja el estilo hippie y las creencias de la directora."
+  },
+  {
+    "id": "c11-alt-02",
+    "tipo": "alternativa",
+    "cap": 11,
+    "habilidad": "literal",
+    "puntos": 1,
+    "pregunta": "¿Sobre qué tema busca libros Julito en la biblioteca?",
+    "opciones": [
+      "Cultivos orgánicos.",
+      "Zombis.",
+      "Recetas vegetarianas.",
+      "Historia de España."
+    ],
+    "correcta": 1,
+    "explicacion": "Julito recurre a Anita María para buscar información sobre zombis."
+  },
+  {
+    "id": "c14-alt-02",
+    "tipo": "alternativa",
+    "cap": 14,
+    "habilidad": "inferencial",
+    "puntos": 1,
+    "pregunta": "¿Qué comprensión comienza a desarrollar Julito respecto de quienes son distintos de la mayoría?",
+    "opciones": [
+      "Que deberían ocultar sus diferencias.",
+      "Que también necesitan respeto y espacio para vivir su identidad.",
+      "Que deben pertenecer a una tribu urbana.",
+      "Que la mayoría siempre tiene la razón."
+    ],
+    "correcta": 1,
+    "explicacion": "Julito empieza a cuestionar sus prejuicios y a reconocer la dificultad de pertenecer a una minoría."
+  },
+  {
+    "id": "c15-alt-02",
+    "tipo": "alternativa",
+    "cap": 15,
+    "habilidad": "vocabulario",
+    "puntos": 1,
+    "pregunta": "¿Por qué Beltrán dice que antes podrían haberlo llamado “niño rata”?",
+    "opciones": [
+      "Porque coleccionaba ratones.",
+      "Porque pasaba casi todo el tiempo frente a pantallas y salía muy poco.",
+      "Porque escondía comida.",
+      "Porque usaba un disfraz de animal."
+    ],
+    "correcta": 1,
+    "explicacion": "La expresión describe de manera informal a quien vive excesivamente concentrado en videojuegos y pantallas."
+  },
+  {
+    "id": "c16-alt-02",
+    "tipo": "alternativa",
+    "cap": 16,
+    "habilidad": "personajes",
+    "puntos": 1,
+    "pregunta": "¿Qué demuestra Rodrigo cuando se equivoca repetidamente con los nombres de sus sobrinos?",
+    "opciones": [
+      "Que apenas los conoce.",
+      "Que está organizando un juego.",
+      "Que quiere cambiarles el nombre.",
+      "Que sabe demasiado sobre ellos."
+    ],
+    "correcta": 0,
+    "explicacion": "Sus errores muestran que no conoce bien a los niños ni ha convivido mucho con ellos."
+  },
+  {
+    "id": "c17-alt-01",
+    "tipo": "alternativa",
+    "cap": 17,
+    "habilidad": "inferencial",
+    "puntos": 1,
+    "pregunta": "¿Qué provoca que Julito olvide por un momento su tristeza?",
+    "opciones": [
+      "La llegada de la policía.",
+      "El llamado a comer y la reunión alrededor de las pizzas.",
+      "Un mensaje de Andrea.",
+      "La devolución de su televisión."
+    ],
+    "correcta": 1,
+    "explicacion": "La comida y el encuentro familiar cambian rápidamente su ánimo."
+  },
+  {
+    "id": "c17-alt-02",
+    "tipo": "alternativa",
+    "cap": 17,
+    "habilidad": "inferencial",
+    "puntos": 1,
+    "pregunta": "¿Qué hace Rodrigo cuando Rosa le pregunta cuánto tiempo permanecerá en la casa?",
+    "opciones": [
+      "Responde una fecha exacta.",
+      "Evita responder y trata de distraerla hablando de cosas que ve afuera.",
+      "Se enoja y se marcha.",
+      "Promete quedarse solo una noche."
+    ],
+    "correcta": 1,
+    "explicacion": "Rodrigo desvía la conversación porque no quiere precisar cuánto durará su estadía."
+  },
+  {
+    "id": "c19-alt-01",
+    "tipo": "alternativa",
+    "cap": 19,
+    "habilidad": "vocabulario",
+    "puntos": 1,
+    "pregunta": "En el capítulo 19, ¿qué significa que Rosa esté escribiendo de manera “análoga”?",
+    "opciones": [
+      "Que escribe sin usar medios digitales, en un cuaderno.",
+      "Que copia un libro antiguo.",
+      "Que escribe en otro idioma.",
+      "Que usa dibujos en lugar de palabras."
+    ],
+    "correcta": 0,
+    "explicacion": "En este contexto, análogo se opone a digital: Rosa escribe a mano en un cuaderno."
+  },
+  {
+    "id": "c03-vf-02",
+    "tipo": "verdadero_falso",
+    "cap": 3,
+    "habilidad": "acontecimientos",
+    "puntos": 1,
+    "afirmacion": "Rodrigo llega antes de lo previsto porque consiguió un vuelo económico con numerosas escalas.",
+    "correcta": true,
+    "explicacion": "La llegada adelantada de Rodrigo sorprende a la familia."
+  },
+  {
+    "id": "c05-vf-02",
+    "tipo": "verdadero_falso",
+    "cap": 5,
+    "habilidad": "literal",
+    "puntos": 1,
+    "afirmacion": "Después del robo, Rosa afirma que todavía conservan abundante dinero para gastar libremente.",
+    "correcta": false,
+    "explicacion": "La familia está casi sin dinero; lo que queda corresponde a ahorros destinados a necesidades importantes."
+  },
+  {
+    "id": "c07-vf-01",
+    "tipo": "verdadero_falso",
+    "cap": 7,
+    "habilidad": "acontecimientos",
+    "puntos": 1,
+    "afirmacion": "Los trabajadores cuentan con ahorros y preparan una propuesta de sociedad con apoyo de un contador y un abogado.",
+    "correcta": true,
+    "explicacion": "Su plan demuestra que tienen organización y proyectos propios fuera de su trabajo cotidiano."
+  },
+  {
+    "id": "c09-vf-01",
+    "tipo": "verdadero_falso",
+    "cap": 9,
+    "habilidad": "literal",
+    "puntos": 1,
+    "afirmacion": "Durante la preparación del restaurante, Julito recupera su kétchup.",
+    "correcta": true,
+    "explicacion": "El regreso del kétchup aparece entre las señales de que están reponiendo lo perdido."
+  },
+  {
+    "id": "c10-vf-01",
+    "tipo": "verdadero_falso",
+    "cap": 10,
+    "habilidad": "personajes",
+    "puntos": 1,
+    "afirmacion": "Doña Lupe rechaza el incienso, los cuarzos y los amuletos.",
+    "correcta": false,
+    "explicacion": "Esos elementos forman parte de la ambientación que ella promueve en el colegio."
+  },
+  {
+    "id": "c11-vf-01",
+    "tipo": "verdadero_falso",
+    "cap": 11,
+    "habilidad": "literal",
+    "puntos": 1,
+    "afirmacion": "Julito acude a Anita María para buscar libros relacionados con zombis.",
+    "correcta": true,
+    "explicacion": "La biblioteca se convierte en un lugar de investigación para Julito."
+  },
+  {
+    "id": "c16-vf-01",
+    "tipo": "verdadero_falso",
+    "cap": 16,
+    "habilidad": "acontecimientos",
+    "puntos": 1,
+    "afirmacion": "Andrea le comunica a Julito que necesita darse un tiempo mientras busca su identidad.",
+    "correcta": true,
+    "explicacion": "El mensaje deja a Julito preocupado y triste."
+  },
+  {
+    "id": "c17-vf-01",
+    "tipo": "verdadero_falso",
+    "cap": 17,
+    "habilidad": "personajes",
+    "puntos": 1,
+    "afirmacion": "Rodrigo espera pacientemente a que todos reciban pizza antes de comenzar a comer.",
+    "correcta": false,
+    "explicacion": "Cuando los demás llegan, Rodrigo ya está comiendo y Rosa debe pedirle que deje pizza para todos."
+  },
+  {
+    "id": "c19-vf-01",
+    "tipo": "verdadero_falso",
+    "cap": 19,
+    "habilidad": "literal",
+    "puntos": 1,
+    "afirmacion": "Rosa escribe a mano en un cuaderno y toma una gran cantidad de café.",
+    "correcta": true,
+    "explicacion": "La escena muestra su esfuerzo por volver a escribir después de perder el archivo digital."
+  },
+  {
+    "id": "c03-ab-01",
+    "tipo": "abierta",
+    "cap": 3,
+    "habilidad": "inferencial",
+    "puntos": 2,
+    "pregunta": "¿Qué quiere expresar Rosa cuando piensa que “las malas noticias no llegan solas” al aparecer Rodrigo?",
+    "respuestaModelo": "Quiere decir que, después del robo y los problemas económicos, la llegada inesperada de Rodrigo le parece otra complicación para la familia.",
+    "criterios": [
+      "Relaciona la frase con el robo o los problemas que ya enfrentaban.",
+      "Explica que la llegada de Rodrigo es vista como una complicación adicional."
+    ]
+  },
+  {
+    "id": "c07-ab-01",
+    "tipo": "abierta",
+    "cap": 7,
+    "habilidad": "reflexion",
+    "puntos": 3,
+    "pregunta": "¿Qué dos cualidades demuestran los trabajadores al ofrecer cobrar menos y proponer una sociedad?",
+    "respuestaModelo": "Demuestran solidaridad, porque aceptan recibir menos dinero para ayudar, e iniciativa o capacidad de organización, porque preparan un plan de negocios con sus ahorros y asesoría profesional.",
+    "criterios": [
+      "Identifica la solidaridad o disposición a ayudar.",
+      "Identifica iniciativa, organización o visión de negocio.",
+      "Explica cada cualidad usando una acción del capítulo."
+    ]
+  },
+  {
+    "id": "c09-ab-01",
+    "tipo": "abierta",
+    "cap": 9,
+    "habilidad": "acontecimientos",
+    "puntos": 2,
+    "pregunta": "Menciona dos señales que muestran que la familia y los trabajadores están reconstruyendo el restaurante.",
+    "respuestaModelo": "Llegan alimentos, ollas y sartenes; vuelven a equipar el local; los trabajadores haitianos participan y Rosa organiza los gastos y las tareas.",
+    "criterios": [
+      "Menciona una primera acción concreta de reconstrucción.",
+      "Menciona una segunda acción distinta y pertinente."
+    ]
+  },
+  {
+    "id": "c10-ab-01",
+    "tipo": "abierta",
+    "cap": 10,
+    "habilidad": "inferencial",
+    "puntos": 2,
+    "pregunta": "¿Cómo ayuda la descripción del colegio a conocer la personalidad o el estilo de doña Lupe?",
+    "respuestaModelo": "El incienso, los cuarzos, los amuletos y la preocupación por las buenas vibras muestran que doña Lupe tiene un estilo hippie y cree en prácticas espirituales o alternativas.",
+    "criterios": [
+      "Menciona al menos un elemento de la ambientación.",
+      "Relaciona esos elementos con el estilo hippie o las creencias de doña Lupe."
+    ]
+  },
+  {
+    "id": "c17-ab-01",
+    "tipo": "abierta",
+    "cap": 17,
+    "habilidad": "reflexion",
+    "puntos": 2,
+    "pregunta": "¿Qué función cumple el humor de Julito cuando está triste o preocupado? Explica usando la escena de la comida.",
+    "respuestaModelo": "El humor le permite aliviar o esconder por un momento su tristeza. En la escena, pasa de sentirse muy mal a bromear sobre la comida y sobre la manera en que Rodrigo come pizza.",
+    "criterios": [
+      "Explica que el humor ayuda a aliviar, ocultar o enfrentar emociones difíciles.",
+      "Relaciona la explicación con la comida, las pizzas o Rodrigo."
+    ]
+  },
+  {
+    "id": "c19-ab-02",
+    "tipo": "abierta",
+    "cap": 19,
+    "habilidad": "inferencial",
+    "puntos": 2,
+    "pregunta": "¿Por qué escribir en un cuaderno es una respuesta importante de Rosa frente al robo?",
+    "respuestaModelo": "Porque demuestra que decide continuar y reescribir su libro aunque perdió el computador y el archivo. También reduce el riesgo de depender nuevamente del mismo medio digital.",
+    "criterios": [
+      "Relaciona el cuaderno con la pérdida del computador o del archivo.",
+      "Explica que Rosa persevera y decide continuar escribiendo."
+    ]
+  },
+  {
+    "id": "c01-vf-01",
+    "tipo": "verdadero_falso",
+    "cap": 1,
+    "habilidad": "acontecimientos",
+    "puntos": 1,
+    "afirmacion": "La familia Cabello sale a comer para celebrar que Julio y Rosa terminaron sus respectivos libros.",
+    "correcta": true,
+    "explicacion": "La cena en La sana zanahoria celebra el término de los dos manuscritos."
+  },
+  {
+    "id": "c01-ab-01",
+    "tipo": "abierta",
+    "cap": 1,
+    "habilidad": "inferencial",
+    "puntos": 2,
+    "pregunta": "¿Cómo usa Julito el humor para describir a los adultos y la cena vegetariana? Explica con un ejemplo.",
+    "respuestaModelo": "Julito exagera, compara y hace juegos de palabras para mostrar que encuentra raros a los adultos y a la comida vegetariana. Por ejemplo, imagina una “vaca de árbol” o se burla de los nombres del menú.",
+    "criterios": [
+      "Explica que el humor aparece mediante exageraciones, comparaciones o juegos de palabras.",
+      "Incluye un ejemplo pertinente del capítulo."
+    ]
+  },
+  {
+    "id": "c04-alt-02",
+    "tipo": "alternativa",
+    "cap": 4,
+    "habilidad": "acontecimientos",
+    "puntos": 1,
+    "pregunta": "¿Qué decisión toman los padres para reemplazar los computadores robados al comenzar a reescribir?",
+    "opciones": [
+      "Esperar a que la policía recupere los equipos.",
+      "Escribir a mano y en cualquier lugar disponible.",
+      "Pedirle a Rodrigo que escriba los dos libros.",
+      "Abandonar definitivamente sus proyectos."
+    ],
+    "correcta": 1,
+    "explicacion": "Como no tienen computadores ni la sala disponible, deciden comenzar a escribir a mano."
+  },
+  {
+    "id": "c07-alt-02",
+    "tipo": "alternativa",
+    "cap": 7,
+    "habilidad": "acontecimientos",
+    "puntos": 1,
+    "pregunta": "¿Qué impide que Julio converse tranquilamente con Rodrigo sobre compartir la pieza?",
+    "opciones": [
+      "Rodrigo no está en la casa.",
+      "Al abrir la puerta sale una nube de humo que hace toser a Julio.",
+      "La pieza está cerrada con candado.",
+      "Rosa les prohíbe hablar."
+    ],
+    "correcta": 1,
+    "explicacion": "La habitación está llena de humo de cigarrillo y Julio comienza a toser."
+  },
+  {
+    "id": "c04-ab-01",
+    "tipo": "abierta",
+    "cap": 4,
+    "habilidad": "inferencial",
+    "puntos": 2,
+    "pregunta": "¿Por qué la palabra “Fighting” logra cambiar por un momento el ánimo de los padres?",
+    "respuestaModelo": "Porque funciona como una frase de aliento (“vamos que se puede”) y, al repetirla María levantando el puño, los padres recuperan esperanza y ternura en medio de la crisis.",
+    "criterios": [
+      "Explica el significado de ánimo o perseverancia de “Fighting”.",
+      "Relaciona la reacción con María y el momento difícil de la familia."
+    ]
+  },
+  {
+    "id": "c08-ab-01",
+    "tipo": "abierta",
+    "cap": 8,
+    "habilidad": "personajes",
+    "puntos": 2,
+    "pregunta": "Compara la reacción de Aarón con la de Andrea cuando Julito les cuenta el robo.",
+    "respuestaModelo": "Aarón responde de manera muy breve y casi sin expresar emoción, mientras Andrea muestra más empatía, dice que lo siente y conversa con Julito, aunque también critica sus prejuicios y sus bromas.",
+    "criterios": [
+      "Describe correctamente la respuesta breve de Aarón.",
+      "Describe la mayor empatía o participación de Andrea.",
+      "Establece una comparación clara."
+    ]
+  },
+  {
+    "id": "c11-ab-01",
+    "tipo": "abierta",
+    "cap": 11,
+    "habilidad": "acontecimientos",
+    "puntos": 2,
+    "pregunta": "Menciona dos cambios que Julito descubre en el colegio durante el capítulo.",
+    "respuestaModelo": "Descubre que el kiosco de Moncho fue reemplazado por un puesto de comida sana y que Guaiquil dejó los computadores para convertirse en profesor de cultivos orgánicos. También visita más la biblioteca y pide información sobre zombis.",
+    "criterios": [
+      "Menciona un primer cambio correcto.",
+      "Menciona un segundo cambio distinto y correcto."
+    ]
+  },
+  {
+    "id": "c12-vf-01",
+    "tipo": "verdadero_falso",
+    "cap": 12,
+    "habilidad": "personajes",
+    "puntos": 1,
+    "afirmacion": "Guaiquil afirma que abandonó las redes y la vida virtual para concentrarse en la tierra, los cultivos y los libros.",
+    "correcta": true,
+    "explicacion": "El profesor dice que redescubrió las cosas pequeñas y que ahora prefiere la tierra y los libros de Anita María."
+  },
+  {
+    "id": "c12-ab-01",
+    "tipo": "abierta",
+    "cap": 12,
+    "habilidad": "inferencial",
+    "puntos": 2,
+    "pregunta": "¿Por qué Julito piensa que el cambio de Guaiquil parece una “invasión extraterrestre”?",
+    "respuestaModelo": "Porque el profesor conserva su identidad, pero cambió radicalmente su ropa, hábitos, intereses y relación con la tecnología; a Julito le parece la misma persona y, al mismo tiempo, alguien distinto.",
+    "criterios": [
+      "Menciona el cambio radical de hábitos o apariencia.",
+      "Explica la idea de que sigue siendo Guaiquil, pero parece otra persona."
+    ]
+  },
+  {
+    "id": "c14-vf-01",
+    "tipo": "verdadero_falso",
+    "cap": 14,
+    "habilidad": "inferencial",
+    "puntos": 1,
+    "afirmacion": "Después de conversar con Cabezas y Mardones, Julito comprende que pertenecer a una minoría no elimina el derecho a ser respetado y ocupar un espacio.",
+    "correcta": true,
+    "explicacion": "Julito reflexiona que ser distinto de la mayoría puede ser difícil, pero no quita derechos."
+  },
+  {
+    "id": "c20-alt-01",
+    "tipo": "alternativa",
+    "cap": 20,
+    "habilidad": "personajes",
+    "puntos": 1,
+    "pregunta": "¿Quién llega como nueva profesora de Lenguaje?",
+    "opciones": [
+      "Anita María.",
+      "La profesora Desbordes.",
+      "Doña Lupe.",
+      "Marcela Aguilar."
+    ],
+    "correcta": 1,
+    "explicacion": "La profesora Desbordes se presenta como la nueva docente de Lenguaje."
+  },
+  {
+    "id": "c20-alt-02",
+    "tipo": "alternativa",
+    "cap": 20,
+    "habilidad": "inferencial",
+    "puntos": 1,
+    "pregunta": "¿En qué se basa Desbordes para afirmar que los estudiantes leen y escriben más que antes?",
+    "opciones": [
+      "En que visitan más bibliotecas.",
+      "En los mensajes, las redes sociales y los libros de youtubers.",
+      "En que hacen tareas más largas.",
+      "En que todos escriben novelas."
+    ],
+    "correcta": 1,
+    "explicacion": "La profesora considera formas actuales de lectura y escritura, como mensajes, redes y libros de figuras de internet."
+  },
+  {
+    "id": "c20-vf-01",
+    "tipo": "verdadero_falso",
+    "cap": 20,
+    "habilidad": "personajes",
+    "puntos": 1,
+    "afirmacion": "La alumna Vaca comparte el entusiasmo de Desbordes por los youtubers y los considera modelos educativos.",
+    "correcta": false,
+    "explicacion": "Vaca los critica duramente y los llama “oligofrénicos”."
+  },
+  {
+    "id": "c20-ab-01",
+    "tipo": "abierta",
+    "cap": 20,
+    "habilidad": "inferencial",
+    "puntos": 2,
+    "pregunta": "¿Qué contradicción existe entre el discurso de Desbordes sobre la democracia y su manera de dirigir la clase?",
+    "respuestaModelo": "Habla de la democracia, pero inmediatamente recuerda que ella no fue elegida, manda callar al curso y comienza a dictar sin permitir una participación real.",
+    "criterios": [
+      "Identifica que la profesora menciona o celebra la democracia.",
+      "Explica que actúa de manera autoritaria o limita la participación."
+    ]
+  },
+  {
+    "id": "c21-alt-01",
+    "tipo": "alternativa",
+    "cap": 21,
+    "habilidad": "literal",
+    "puntos": 1,
+    "pregunta": "¿Qué película presenta Anita María como origen de los zombis modernos?",
+    "opciones": [
+      "Drácula.",
+      "La noche de los muertos vivientes.",
+      "Alien.",
+      "El aro."
+    ],
+    "correcta": 1,
+    "explicacion": "Anita menciona la película de George Romero estrenada en 1968."
+  },
+  {
+    "id": "c21-alt-02",
+    "tipo": "alternativa",
+    "cap": 21,
+    "habilidad": "personajes",
+    "puntos": 1,
+    "pregunta": "¿Cómo se identifican Cabezas y Mardones dentro de la cultura de ciencia ficción?",
+    "opciones": [
+      "Uno como trekkie y el otro como jedi.",
+      "Ambos como otakus.",
+      "Uno como punk y otro como hippie.",
+      "Ambos como new wave."
+    ],
+    "correcta": 0,
+    "explicacion": "Se conocieron en una convención, disfrazados de Spock y Boba Fett."
+  },
+  {
+    "id": "c21-vf-01",
+    "tipo": "verdadero_falso",
+    "cap": 21,
+    "habilidad": "inferencial",
+    "puntos": 1,
+    "afirmacion": "Cabezas y Mardones explican que su orientación es una moda que pueden elegir y abandonar como una tribu urbana.",
+    "correcta": false,
+    "explicacion": "Aclaran que no es una opción ni una moda: nacieron así."
+  },
+  {
+    "id": "c21-ab-01",
+    "tipo": "abierta",
+    "cap": 21,
+    "habilidad": "reflexion",
+    "puntos": 2,
+    "pregunta": "Explica la diferencia que establecen Cabezas y Mardones entre una tribu urbana y su identidad personal.",
+    "respuestaModelo": "Una tribu urbana puede escogerse y cambiarse porque se relaciona con gustos, ropa o música; en cambio, ellos explican que su orientación forma parte de quienes son y no es una elección.",
+    "criterios": [
+      "Explica que una tribu urbana se puede elegir o cambiar.",
+      "Explica que la orientación o identidad de los personajes no es una elección."
+    ]
+  },
+  {
+    "id": "c22-alt-01",
+    "tipo": "alternativa",
+    "cap": 22,
+    "habilidad": "acontecimientos",
+    "puntos": 1,
+    "pregunta": "¿Qué proponen Laura, Antonia y los Bertos al final del capítulo?",
+    "opciones": [
+      "Cerrar definitivamente el restaurante.",
+      "Realizar una degustación para presentar una nueva idea de negocio.",
+      "Volver a vender únicamente comida peruana.",
+      "Comprar computadores para Julio y Rosa."
+    ],
+    "correcta": 1,
+    "explicacion": "Invitan a la familia a una degustación para comprender su nueva propuesta."
+  },
+  {
+    "id": "c22-alt-02",
+    "tipo": "alternativa",
+    "cap": 22,
+    "habilidad": "personajes",
+    "puntos": 1,
+    "pregunta": "¿De quiénes dicen ser orgullosos descendientes los trabajadores de El inka guatón?",
+    "opciones": [
+      "De los vikingos.",
+      "Del inca Pachacutec.",
+      "De George Romero.",
+      "De los mapuches."
+    ],
+    "correcta": 1,
+    "explicacion": "Se presentan como descendientes de Pachacutec y del mundo inca."
+  },
+  {
+    "id": "c22-vf-01",
+    "tipo": "verdadero_falso",
+    "cap": 22,
+    "habilidad": "acontecimientos",
+    "puntos": 1,
+    "afirmacion": "Beltrán pregunta si los libros estaban guardados en la nube y los padres responden que no.",
+    "correcta": true,
+    "explicacion": "La pregunta repite el problema central: no existía una copia de respaldo."
+  },
+  {
+    "id": "c22-ab-01",
+    "tipo": "abierta",
+    "cap": 22,
+    "habilidad": "inferencial",
+    "puntos": 2,
+    "pregunta": "¿Cómo afectan las palabras de Rebolledo y Monsalve las esperanzas de recuperar los objetos robados?",
+    "respuestaModelo": "Aunque intentan hablar con cuidado, dejan entender que es muy poco probable recuperar los objetos y los libros, por lo que la familia vuelve a sentir tristeza y debe pensar en reemplazarlos.",
+    "criterios": [
+      "Explica que disminuyen o eliminan la esperanza de recuperar lo robado.",
+      "Relaciona esto con la tristeza o la necesidad de buscar soluciones."
+    ]
+  },
+  {
+    "id": "c23-alt-01",
+    "tipo": "alternativa",
+    "cap": 23,
+    "habilidad": "personajes",
+    "puntos": 1,
+    "pregunta": "¿A qué tribu urbana perteneció Rosa cuando era joven?",
+    "opciones": [
+      "Hippie.",
+      "New wave.",
+      "Punk.",
+      "Otaku."
+    ],
+    "correcta": 1,
+    "explicacion": "Rosa cuenta que fue new wave."
+  },
+  {
+    "id": "c23-alt-02",
+    "tipo": "alternativa",
+    "cap": 23,
+    "habilidad": "acontecimientos",
+    "puntos": 1,
+    "pregunta": "¿Quiénes son los dos jóvenes de peinados llamativos que aparecen junto a Rosa en la fotografía?",
+    "opciones": [
+      "Rebolledo y Monsalve.",
+      "Julio y Rodrigo.",
+      "Cabezas y Mardones.",
+      "Aarón y Moncho."
+    ],
+    "correcta": 1,
+    "explicacion": "La foto muestra al padre y al tío de Julito durante su juventud new wave."
+  },
+  {
+    "id": "c23-vf-01",
+    "tipo": "verdadero_falso",
+    "cap": 23,
+    "habilidad": "literal",
+    "puntos": 1,
+    "afirmacion": "Rosa afirma que los new wave siguen siendo una tribu urbana muy común en la actualidad.",
+    "correcta": false,
+    "explicacion": "Rosa dice que se extinguieron y recuerda sus vestimentas y peinados como algo ridículo."
+  },
+  {
+    "id": "c23-ab-01",
+    "tipo": "abierta",
+    "cap": 23,
+    "habilidad": "inferencial",
+    "puntos": 2,
+    "pregunta": "¿Qué descubre Julito sobre sus padres y su tío al observar la fotografía antigua?",
+    "respuestaModelo": "Descubre que los adultos también fueron jóvenes, tuvieron estilos e identidades distintas y cambiaron con el tiempo. Esto rompe la imagen seria y estable que él tenía de ellos.",
+    "criterios": [
+      "Menciona que los adultos también tuvieron juventud y una identidad o estilo propio.",
+      "Explica que la fotografía cambia la forma en que Julito los veía."
+    ]
+  },
+  {
+    "id": "c24-alt-01",
+    "tipo": "alternativa",
+    "cap": 24,
+    "habilidad": "inferencial",
+    "puntos": 1,
+    "pregunta": "¿Qué provoca principalmente el “proceso depresivo” de Julito?",
+    "opciones": [
+      "Haber perdido una prueba.",
+      "Temer que Andrea regrese convertida en una persona completamente diferente.",
+      "No poder elegir una colación.",
+      "Que Beltrán deje el colegio."
+    ],
+    "correcta": 1,
+    "explicacion": "Los descubrimientos sobre las tribus y el próximo regreso de Andrea aumentan su inseguridad."
+  },
+  {
+    "id": "c24-alt-02",
+    "tipo": "alternativa",
+    "cap": 24,
+    "habilidad": "personajes",
+    "puntos": 1,
+    "pregunta": "¿Cómo describe Beltrán el proceso de encontrar una identidad?",
+    "opciones": [
+      "Como cambiarse de ropa rápidamente.",
+      "Como un proceso largo y a veces definitivo.",
+      "Como una tarea que deciden los padres.",
+      "Como una competencia escolar."
+    ],
+    "correcta": 1,
+    "explicacion": "Beltrán insiste en que no se trata solo de una apariencia momentánea."
+  },
+  {
+    "id": "c24-vf-01",
+    "tipo": "verdadero_falso",
+    "cap": 24,
+    "habilidad": "personajes",
+    "puntos": 1,
+    "afirmacion": "María permanece completamente callada y no participa en la conversación sobre la identidad.",
+    "correcta": false,
+    "explicacion": "María pregunta en voz baja por qué a ella no le ha ocurrido ese proceso."
+  },
+  {
+    "id": "c24-ab-01",
+    "tipo": "abierta",
+    "cap": 24,
+    "habilidad": "reflexion",
+    "puntos": 2,
+    "pregunta": "¿Qué significa la idea de Beltrán de que encontrar una identidad no es simplemente “cambiarse de ropa”?",
+    "respuestaModelo": "Significa que la identidad incluye convicciones, gustos, valores y una forma de comprenderse; la apariencia puede expresarla, pero no basta por sí sola ni debería decidirse de manera superficial.",
+    "criterios": [
+      "Distingue la identidad de la apariencia o la ropa.",
+      "Menciona aspectos internos, como gustos, valores, convicciones o autoconocimiento."
+    ]
+  },
+  {
+    "id": "c25-alt-01",
+    "tipo": "alternativa",
+    "cap": 25,
+    "habilidad": "personajes",
+    "puntos": 1,
+    "pregunta": "¿Con qué tribu o afición se identifica Marilú después de su viaje a Japón?",
+    "opciones": [
+      "Metalera.",
+      "Otaku.",
+      "New wave.",
+      "Hippie."
+    ],
+    "correcta": 1,
+    "explicacion": "Marilú se considera otaku por su admiración por la cultura japonesa."
+  },
+  {
+    "id": "c25-alt-02",
+    "tipo": "alternativa",
+    "cap": 25,
+    "habilidad": "acontecimientos",
+    "puntos": 1,
+    "pregunta": "¿Qué observa Marilú cuando Aarón entra a la sala?",
+    "opciones": [
+      "Que llega solo y triste.",
+      "Que llega conversando cariñosamente con Vaca.",
+      "Que tiene el pelo azul.",
+      "Que trae un regalo para ella."
+    ],
+    "correcta": 1,
+    "explicacion": "Aarón y Vaca entran juntos hablando de temas veganos."
+  },
+  {
+    "id": "c25-vf-01",
+    "tipo": "verdadero_falso",
+    "cap": 25,
+    "habilidad": "acontecimientos",
+    "puntos": 1,
+    "afirmacion": "Marilú sabía antes de regresar que Aarón estaba relacionándose con Vaca.",
+    "correcta": false,
+    "explicacion": "Su reacción muestra que no conocía la situación y que la noticia la sorprende y enfurece."
+  },
+  {
+    "id": "c25-ab-01",
+    "tipo": "abierta",
+    "cap": 25,
+    "habilidad": "inferencial",
+    "puntos": 2,
+    "pregunta": "¿Qué permiten inferir el cambio de color de Marilú y sus palabras finales sobre lo que siente?",
+    "respuestaModelo": "Que está celosa, enojada y sorprendida al ver a Aarón con Vaca. El cambio a “rojo betarraga” y la amenaza muestran que su actitud kawaii desaparece rápidamente.",
+    "criterios": [
+      "Identifica emociones como celos, enojo o sorpresa.",
+      "Usa al menos una señal del texto: color, amenaza, palabras en japonés o cambio de actitud."
+    ]
+  },
+  {
+    "id": "c26-alt-01",
+    "tipo": "alternativa",
+    "cap": 26,
+    "habilidad": "literal",
+    "puntos": 1,
+    "pregunta": "¿Qué materiales permite leer Desbordes en la clase?",
+    "opciones": [
+      "Solo novelas clásicas.",
+      "Condorito y libros de youtubers, entre otros.",
+      "Únicamente textos científicos.",
+      "Solo los libros que ella considera literarios."
+    ],
+    "correcta": 1,
+    "explicacion": "La profesora dice que le importa que lean, aunque ella prefiera libros más densos."
+  },
+  {
+    "id": "c26-alt-02",
+    "tipo": "alternativa",
+    "cap": 26,
+    "habilidad": "acontecimientos",
+    "puntos": 1,
+    "pregunta": "¿Quién produce el fuerte crujido al final de la clase?",
+    "opciones": [
+      "Vaca.",
+      "Marilú.",
+      "Aarón.",
+      "Anita María."
+    ],
+    "correcta": 1,
+    "explicacion": "El crujido proviene de Marilú, que mira hacia Aarón."
+  },
+  {
+    "id": "c26-vf-01",
+    "tipo": "verdadero_falso",
+    "cap": 26,
+    "habilidad": "personajes",
+    "puntos": 1,
+    "afirmacion": "Desbordes declara que su principal misión es acompañar personalmente a cada alumno para que se convierta en un mejor lector.",
+    "correcta": false,
+    "explicacion": "Responde que no le pagan lo suficiente y mantiene una actitud distante y burlona."
+  },
+  {
+    "id": "c26-ab-01",
+    "tipo": "abierta",
+    "cap": 26,
+    "habilidad": "personajes",
+    "puntos": 3,
+    "pregunta": "¿Cómo caracteriza este capítulo a la profesora Desbordes? Fundamenta con dos acciones o frases.",
+    "respuestaModelo": "La muestra autoritaria, sarcástica y poco comprometida con orientar al curso: acepta cualquier lectura porque le pagan para que lean, se burla de los alumnos y dice que no le pagan lo suficiente para ayudarlos a mejorar.",
+    "criterios": [
+      "Señala una característica pertinente.",
+      "Incluye una primera evidencia del capítulo.",
+      "Incluye una segunda evidencia distinta."
+    ]
+  },
+  {
+    "id": "c27-alt-01",
+    "tipo": "alternativa",
+    "cap": 27,
+    "habilidad": "acontecimientos",
+    "puntos": 1,
+    "pregunta": "¿Qué hace Marilú apenas comienza el recreo?",
+    "opciones": [
+      "Se va a la biblioteca.",
+      "Toma a Aarón del brazo y lo lleva afuera para hablar.",
+      "Discute con la profesora.",
+      "Invita a Vaca a comer."
+    ],
+    "correcta": 1,
+    "explicacion": "Marilú actúa con rapidez y se lleva a Aarón antes de que Vaca reaccione."
+  },
+  {
+    "id": "c27-alt-02",
+    "tipo": "alternativa",
+    "cap": 27,
+    "habilidad": "inferencial",
+    "puntos": 1,
+    "pregunta": "¿Qué verdad sobre Julito señala Vaca durante su conversación?",
+    "opciones": [
+      "Que quiere convertirse en punk.",
+      "Que está enamorado de Andrea, aunque le cuesta reconocerlo.",
+      "Que desea abandonar el colegio.",
+      "Que no siente ninguna preocupación."
+    ],
+    "correcta": 1,
+    "explicacion": "Vaca relaciona su situación con la de Julito y Andrea."
+  },
+  {
+    "id": "c27-vf-01",
+    "tipo": "verdadero_falso",
+    "cap": 27,
+    "habilidad": "personajes",
+    "puntos": 1,
+    "afirmacion": "Vaca afirma que no siente tristeza por la situación con Aarón y Marilú.",
+    "correcta": false,
+    "explicacion": "Dice que tiene mucha pena y reconoce que Aarón todavía siente algo fuerte por Marilú."
+  },
+  {
+    "id": "c27-ab-01",
+    "tipo": "abierta",
+    "cap": 27,
+    "habilidad": "inferencial",
+    "puntos": 2,
+    "pregunta": "¿Por qué Julito cambia de tema y se va a la biblioteca cuando Vaca menciona a Andrea?",
+    "respuestaModelo": "Porque la conversación toca un sentimiento que le produce miedo y vergüenza. En vez de reconocerlo, usa bromas y se retira para evitar enfrentarlo.",
+    "criterios": [
+      "Relaciona su reacción con los sentimientos hacia Andrea.",
+      "Explica que evita el tema mediante bromas, cambio de tema o retirada."
+    ]
+  },
+  {
+    "id": "c28-alt-01",
+    "tipo": "alternativa",
+    "cap": 28,
+    "habilidad": "inferencial",
+    "puntos": 1,
+    "pregunta": "¿Cuál es la verdadera razón por la que Julito visita tanto la biblioteca?",
+    "opciones": [
+      "Quiere convertirse en bibliotecario.",
+      "Tiene muchas tareas obligatorias.",
+      "Allí hay aire acondicionado y está más fresco.",
+      "Busca esconderse de sus padres."
+    ],
+    "correcta": 2,
+    "explicacion": "Julito presenta motivos intelectuales, pero reconoce que principalmente busca el aire fresco."
+  },
+  {
+    "id": "c28-alt-02",
+    "tipo": "alternativa",
+    "cap": 28,
+    "habilidad": "literal",
+    "puntos": 1,
+    "pregunta": "¿Qué tribus dice Anita María que cuesta encontrar en la actualidad?",
+    "opciones": [
+      "Punks y hippies.",
+      "Emos y pokemones.",
+      "Metaleros y otakus.",
+      "Veganos y hípsters."
+    ],
+    "correcta": 1,
+    "explicacion": "Anita comenta que esas tribus prácticamente desaparecieron."
+  },
+  {
+    "id": "c28-vf-01",
+    "tipo": "verdadero_falso",
+    "cap": 28,
+    "habilidad": "inferencial",
+    "puntos": 1,
+    "afirmacion": "Anita María sostiene que todos los libros tienen exactamente la misma calidad y que no existen libros malos.",
+    "correcta": false,
+    "explicacion": "Admite que hay libros malos, aunque agrega que todo libro puede tener alguna utilidad."
+  },
+  {
+    "id": "c28-ab-01",
+    "tipo": "abierta",
+    "cap": 28,
+    "habilidad": "inferencial",
+    "puntos": 2,
+    "pregunta": "Explica la ironía de que Julito llame a la biblioteca “el templo del saber”.",
+    "respuestaModelo": "El título sugiere que va por conocimiento, pero Julito reconoce que también entra por comodidad, especialmente por el aire acondicionado, y suele conversar o bromear más que estudiar.",
+    "criterios": [
+      "Explica el sentido elevado de “templo del saber”.",
+      "Contrasta esa idea con la motivación práctica o el comportamiento de Julito."
+    ]
+  },
+  {
+    "id": "c29-alt-01",
+    "tipo": "alternativa",
+    "cap": 29,
+    "habilidad": "vocabulario",
+    "puntos": 1,
+    "pregunta": "¿Qué significa que Julio tenga un “bloqueo creativo”?",
+    "opciones": [
+      "Que perdió la llave de la pieza.",
+      "Que no logra producir ideas ni comenzar a escribir.",
+      "Que se quedó sin tinta.",
+      "Que terminó su libro antes de tiempo."
+    ],
+    "correcta": 1,
+    "explicacion": "Julio dice que no puede escribir ni una letra."
+  },
+  {
+    "id": "c29-alt-02",
+    "tipo": "alternativa",
+    "cap": 29,
+    "habilidad": "acontecimientos",
+    "puntos": 1,
+    "pregunta": "¿Qué elemento anticipa que la degustación no corresponde a la antigua cocina peruana?",
+    "opciones": [
+      "El restaurante está completamente oscuro.",
+      "Suena música en un idioma distinto y el lugar se ve cambiado.",
+      "Los policías esperan en la entrada.",
+      "No hay mesas en el comedor."
+    ],
+    "correcta": 1,
+    "explicacion": "La música y el ambiente diferente preparan la sorpresa de la nueva propuesta."
+  },
+  {
+    "id": "c29-vf-01",
+    "tipo": "verdadero_falso",
+    "cap": 29,
+    "habilidad": "acontecimientos",
+    "puntos": 1,
+    "afirmacion": "Julio avanza rápidamente en su libro y ya tiene varios capítulos escritos.",
+    "correcta": false,
+    "explicacion": "Reconoce que está bloqueado y que no ha logrado escribir ni una letra."
+  },
+  {
+    "id": "c29-ab-01",
+    "tipo": "abierta",
+    "cap": 29,
+    "habilidad": "inferencial",
+    "puntos": 2,
+    "pregunta": "Menciona dos pistas que preparan al lector para el cambio del restaurante antes de conocer la propuesta completa.",
+    "respuestaModelo": "El restaurante tiene un aspecto diferente y se escucha música que no es peruana; además, Laura invita formalmente a la familia a pasar al comedor para una experiencia sorpresa.",
+    "criterios": [
+      "Menciona una primera pista pertinente.",
+      "Menciona una segunda pista distinta."
+    ]
+  },
+  {
+    "id": "c30-alt-01",
+    "tipo": "alternativa",
+    "cap": 30,
+    "habilidad": "literal",
+    "puntos": 1,
+    "pregunta": "¿De qué país provienen los platos que prueba la familia en la degustación?",
+    "opciones": [
+      "Perú.",
+      "Haití.",
+      "España.",
+      "Japón."
+    ],
+    "correcta": 1,
+    "explicacion": "Moncho explica que aprendió recetas de cocina haitiana."
+  },
+  {
+    "id": "c30-alt-02",
+    "tipo": "alternativa",
+    "cap": 30,
+    "habilidad": "inferencial",
+    "puntos": 1,
+    "pregunta": "¿Por qué los socios proponen cambiar el rumbo del restaurante?",
+    "opciones": [
+      "Porque la cocina peruana es demasiado difícil.",
+      "Porque existen tantos restaurantes peruanos que dejaron de ser una novedad.",
+      "Porque la familia ya no quiere cocinar.",
+      "Porque los clientes solo piden pizza."
+    ],
+    "correcta": 1,
+    "explicacion": "El estudio de mercado muestra una oportunidad para diferenciarse con cocina haitiana."
+  },
+  {
+    "id": "c30-vf-01",
+    "tipo": "verdadero_falso",
+    "cap": 30,
+    "habilidad": "personajes",
+    "puntos": 1,
+    "afirmacion": "Moncho aprende las recetas haitianas junto a dos cocineros que también son aficionados al heavy metal.",
+    "correcta": true,
+    "explicacion": "Cocinan juntos mientras escuchan grupos como Iron Maiden y Metallica."
+  },
+  {
+    "id": "c30-ab-01",
+    "tipo": "abierta",
+    "cap": 30,
+    "habilidad": "reflexion",
+    "puntos": 3,
+    "pregunta": "¿Por qué la propuesta de cambiar a cocina creole puede considerarse una decisión estratégica y no solo una ocurrencia?",
+    "respuestaModelo": "Porque se basa en un estudio de mercado, detecta exceso de competencia peruana, incorpora conocimientos de cocineros haitianos y ofrece una experiencia novedosa para atraer clientes.",
+    "criterios": [
+      "Menciona el estudio de mercado o la competencia existente.",
+      "Explica la diferenciación o novedad de la cocina haitiana.",
+      "Menciona los conocimientos o colaboración del equipo."
+    ]
+  },
+  {
+    "id": "c31-alt-01",
+    "tipo": "alternativa",
+    "cap": 31,
+    "habilidad": "literal",
+    "puntos": 1,
+    "pregunta": "¿Qué hecho histórico sobre Haití sorprende a Julito?",
+    "opciones": [
+      "Fue el último país latinoamericano en independizarse.",
+      "Fue el primer país latinoamericano en independizarse y el primero en derrotar la esclavitud mediante una revolución exitosa.",
+      "Nunca fue colonia europea.",
+      "Inventó la imprenta."
+    ],
+    "correcta": 1,
+    "explicacion": "Julito descubre la importancia de la independencia haitiana y su lucha contra la esclavitud."
+  },
+  {
+    "id": "c31-alt-02",
+    "tipo": "alternativa",
+    "cap": 31,
+    "habilidad": "vocabulario",
+    "puntos": 1,
+    "pregunta": "¿Qué significa “nzambi”, palabra relacionada con el origen de “zombi”?",
+    "opciones": [
+      "Guerrero del mar.",
+      "Espíritu de los muertos.",
+      "Comida picante.",
+      "Rey de las tribus."
+    ],
+    "correcta": 1,
+    "explicacion": "Julito encuentra que la palabra proviene de lenguas africanas y significa “espíritu de los muertos”."
+  },
+  {
+    "id": "c31-vf-01",
+    "tipo": "verdadero_falso",
+    "cap": 31,
+    "habilidad": "acontecimientos",
+    "puntos": 1,
+    "afirmacion": "La caja grande que llega desde España está dirigida al tío Rodrigo.",
+    "correcta": true,
+    "explicacion": "El cartero entrega una caja con el nombre de Rodrigo, cuyo contenido queda como misterio."
+  },
+  {
+    "id": "c31-ab-01",
+    "tipo": "abierta",
+    "cap": 31,
+    "habilidad": "inferencial",
+    "puntos": 2,
+    "pregunta": "¿Cómo cambia la investigación la imagen que Julito tiene de Haití?",
+    "respuestaModelo": "Deja de relacionarlo únicamente con zombis o con la nueva comida y descubre una historia de independencia, resistencia a la esclavitud y herencia africana. Su mirada se vuelve más informada y respetuosa.",
+    "criterios": [
+      "Menciona al menos un aprendizaje histórico o cultural.",
+      "Explica que Julito supera una visión superficial o estereotipada."
+    ]
+  },
+  {
+    "id": "c32-alt-01",
+    "tipo": "alternativa",
+    "cap": 32,
+    "habilidad": "acontecimientos",
+    "puntos": 1,
+    "pregunta": "¿Cómo regresa Beltrán después de salir con Rodrigo?",
+    "opciones": [
+      "Con el pelo rapado y uniforme nuevo.",
+      "Con el pelo azul y una chaqueta punk con chapitas.",
+      "Vestido como hípster.",
+      "Con un disfraz de zombi."
+    ],
+    "correcta": 1,
+    "explicacion": "Rodrigo lo lleva al mercado persa y lo ayuda a construir una apariencia punk."
+  },
+  {
+    "id": "c32-alt-02",
+    "tipo": "alternativa",
+    "cap": 32,
+    "habilidad": "personajes",
+    "puntos": 1,
+    "pregunta": "¿Qué hace Rosa para controlar su enojo?",
+    "opciones": [
+      "Sale a correr.",
+      "Cuenta hasta cien mientras respira.",
+      "Llama a la policía.",
+      "Se encierra a dormir."
+    ],
+    "correcta": 1,
+    "explicacion": "Rosa utiliza la cuenta y la respiración para evitar explotar."
+  },
+  {
+    "id": "c32-vf-01",
+    "tipo": "verdadero_falso",
+    "cap": 32,
+    "habilidad": "acontecimientos",
+    "puntos": 1,
+    "afirmacion": "Rodrigo realmente llevó a Beltrán a hacerse un tatuaje permanente.",
+    "correcta": false,
+    "explicacion": "Rodrigo menciona el tatuaje como una broma para provocar a Rosa."
+  },
+  {
+    "id": "c32-ab-01",
+    "tipo": "abierta",
+    "cap": 32,
+    "habilidad": "reflexion",
+    "puntos": 2,
+    "pregunta": "¿Qué parte de la conducta de Rodrigo fue irresponsable, aunque quisiera ayudar a Beltrán?",
+    "respuestaModelo": "Tomó una decisión importante sobre la apariencia de un menor sin consultar a sus padres y trató la búsqueda de identidad como una transformación rápida. Su intención podía ser buena, pero ignoró límites y consecuencias.",
+    "criterios": [
+      "Identifica la falta de permiso o consulta a los padres.",
+      "Explica que simplifica la identidad o no considera consecuencias."
+    ]
+  },
+  {
+    "id": "c33-alt-01",
+    "tipo": "alternativa",
+    "cap": 33,
+    "habilidad": "acontecimientos",
+    "puntos": 1,
+    "pregunta": "¿Qué muestran nombres como “tío traidor” y “me tienen chata”?",
+    "opciones": [
+      "Que Rosa está contenta con Rodrigo.",
+      "Que Rosa usa su trabajo para expresar el enojo que siente.",
+      "Que dejó de trabajar en cosméticos.",
+      "Que quiere abrir una heladería."
+    ],
+    "correcta": 1,
+    "explicacion": "Los nombres reflejan directamente la tensión familiar."
+  },
+  {
+    "id": "c33-alt-02",
+    "tipo": "alternativa",
+    "cap": 33,
+    "habilidad": "acontecimientos",
+    "puntos": 1,
+    "pregunta": "¿A quiénes invitan al restaurante para probar la nueva carta?",
+    "opciones": [
+      "A los profesores del colegio.",
+      "A críticos de restaurantes.",
+      "A los policías del barrio.",
+      "A músicos haitianos."
+    ],
+    "correcta": 1,
+    "explicacion": "Laura y Antonia preparan una degustación para críticos gastronómicos."
+  },
+  {
+    "id": "c33-vf-01",
+    "tipo": "verdadero_falso",
+    "cap": 33,
+    "habilidad": "literal",
+    "puntos": 1,
+    "afirmacion": "El restaurante conserva todos los antiguos cuadros incaicos y no presenta cambios visibles.",
+    "correcta": false,
+    "explicacion": "Los cuadros antiguos fueron retirados y aparecen manteles, uniformes y aromas diferentes."
+  },
+  {
+    "id": "c33-ab-01",
+    "tipo": "abierta",
+    "cap": 33,
+    "habilidad": "inferencial",
+    "puntos": 2,
+    "pregunta": "¿Cómo revelan los nombres inventados por Rosa su estado de ánimo?",
+    "respuestaModelo": "Transforma su enojo con Rodrigo, Beltrán y la crisis en nombres de colores agresivos o absurdos. El trabajo funciona como una salida humorística para expresar que está cansada y furiosa.",
+    "criterios": [
+      "Relaciona los nombres con el enojo o cansancio de Rosa.",
+      "Explica que el trabajo le permite expresar esas emociones."
+    ]
+  },
+  {
+    "id": "c34-alt-01",
+    "tipo": "alternativa",
+    "cap": 34,
+    "habilidad": "personajes",
+    "puntos": 1,
+    "pregunta": "¿Qué idioma intenta aprender Moncho mientras sirve el almuerzo?",
+    "opciones": [
+      "Quechua.",
+      "Creole.",
+      "Japonés.",
+      "Francés antiguo."
+    ],
+    "correcta": 1,
+    "explicacion": "Moncho prueba expresiones en creole haitiano."
+  },
+  {
+    "id": "c34-alt-02",
+    "tipo": "alternativa",
+    "cap": 34,
+    "habilidad": "acontecimientos",
+    "puntos": 1,
+    "pregunta": "¿Qué responde Rodrigo cuando Rosa pregunta por el contenido de la caja?",
+    "opciones": [
+      "Que son computadores nuevos.",
+      "Que se trata de una sorpresa.",
+      "Que está vacía.",
+      "Que contiene comida española."
+    ],
+    "correcta": 1,
+    "explicacion": "Rodrigo y Julio se niegan a revelar el contenido para mantener la sorpresa."
+  },
+  {
+    "id": "c34-vf-01",
+    "tipo": "verdadero_falso",
+    "cap": 34,
+    "habilidad": "inferencial",
+    "puntos": 1,
+    "afirmacion": "Durante el almuerzo todos conversan relajadamente, porque Rosa ya olvidó el cambio punk de Beltrán.",
+    "correcta": false,
+    "explicacion": "La familia come casi en silencio porque Rosa continúa muy enojada y todos temen otra explosión."
+  },
+  {
+    "id": "c34-ab-01",
+    "tipo": "abierta",
+    "cap": 34,
+    "habilidad": "inferencial",
+    "puntos": 2,
+    "pregunta": "¿Cómo crea el silencio familiar tensión y humor al mismo tiempo?",
+    "respuestaModelo": "El silencio muestra que todos temen el enojo de Rosa, pero las intervenciones de Moncho, Rodrigo y las cuentas regresivas exageradas convierten el miedo en una situación cómica.",
+    "criterios": [
+      "Explica que el silencio se debe al enojo o posible explosión de Rosa.",
+      "Menciona un recurso humorístico, como Moncho, Rodrigo o la cuenta regresiva."
+    ]
+  },
+  {
+    "id": "c35-alt-01",
+    "tipo": "alternativa",
+    "cap": 35,
+    "habilidad": "personajes",
+    "puntos": 1,
+    "pregunta": "¿Cuál es el estado amoroso de Aarón durante su conversación con Julito?",
+    "opciones": [
+      "Comprometido.",
+      "Soltero y rechazado por ambas niñas.",
+      "Pololeando con Marilú.",
+      "Pololeando con Vaca."
+    ],
+    "correcta": 1,
+    "explicacion": "Aarón dice que Sandra y Marilú lo odian y que quedó con “cero vidas” en el amor."
+  },
+  {
+    "id": "c35-alt-02",
+    "tipo": "alternativa",
+    "cap": 35,
+    "habilidad": "inferencial",
+    "puntos": 1,
+    "pregunta": "¿Qué preocupación comparten Aarón y Julito, aunque en situaciones distintas?",
+    "opciones": [
+      "No saber cómo reaccionarán personas importantes al regresar o cambiar.",
+      "Tener que aprender creole.",
+      "Perder el transporte escolar.",
+      "No poder comer carne."
+    ],
+    "correcta": 0,
+    "explicacion": "Aarón enfrenta el regreso de Marilú y Julito teme el regreso de Andrea."
+  },
+  {
+    "id": "c35-vf-01",
+    "tipo": "verdadero_falso",
+    "cap": 35,
+    "habilidad": "personajes",
+    "puntos": 1,
+    "afirmacion": "Las bromas de Julito logran animar a Aarón, quien le agradece su apoyo.",
+    "correcta": false,
+    "explicacion": "Aarón cuestiona cómo puede soportarlo y Julito llega a preguntarse si su humor es tóxico."
+  },
+  {
+    "id": "c35-ab-01",
+    "tipo": "abierta",
+    "cap": 35,
+    "habilidad": "reflexion",
+    "puntos": 3,
+    "pregunta": "¿Crees que el humor de Julito ayuda o perjudica a Aarón en esta conversación? Fundamenta.",
+    "respuestaModelo": "Principalmente lo perjudica, porque se burla de su dolor y lo culpa en vez de escucharlo. Puede aliviar la tensión para Julito, pero Aarón no se siente comprendido.",
+    "criterios": [
+      "Adopta una postura clara.",
+      "Usa una acción o frase pertinente del diálogo.",
+      "Explica el efecto que tiene en Aarón."
+    ]
+  },
+  {
+    "id": "c36-alt-01",
+    "tipo": "alternativa",
+    "cap": 36,
+    "habilidad": "acontecimientos",
+    "puntos": 1,
+    "pregunta": "¿Qué contenía la caja enviada desde España?",
+    "opciones": [
+      "Pinturas y materiales nuevos.",
+      "Los cuadros que Rodrigo había dejado con su exnovia.",
+      "Ropa para Beltrán.",
+      "Libros de cocina."
+    ],
+    "correcta": 1,
+    "explicacion": "Los cuadros se usan para decorar el restaurante y luego varios son vendidos."
+  },
+  {
+    "id": "c36-alt-02",
+    "tipo": "alternativa",
+    "cap": 36,
+    "habilidad": "literal",
+    "puntos": 1,
+    "pregunta": "¿Cómo llama Moncho a su versión creole de las salchipapas?",
+    "opciones": [
+      "Salchipapas atómicas.",
+      "Salchipapas zombis.",
+      "Salchipapas new wave.",
+      "Salchipapas fighting."
+    ],
+    "correcta": 1,
+    "explicacion": "La preparación incluye porotos picantes y se convierte en un éxito."
+  },
+  {
+    "id": "c36-vf-01",
+    "tipo": "verdadero_falso",
+    "cap": 36,
+    "habilidad": "acontecimientos",
+    "puntos": 1,
+    "afirmacion": "Al terminar la noche, los críticos compran casi todos los cuadros de Rodrigo.",
+    "correcta": true,
+    "explicacion": "La buena recepción de la comida y el ambiente también favorece la venta de los cuadros."
+  },
+  {
+    "id": "c36-ab-01",
+    "tipo": "abierta",
+    "cap": 36,
+    "habilidad": "inferencial",
+    "puntos": 3,
+    "pregunta": "Menciona tres factores que explican el éxito de la noche de reapertura.",
+    "respuestaModelo": "La comida haitiana novedosa, las salchipapas zombis, el ambiente festivo, los cuadros coloridos, la organización del equipo y el buen ánimo de los críticos contribuyen al éxito.",
+    "criterios": [
+      "Menciona un primer factor correcto.",
+      "Menciona un segundo factor distinto.",
+      "Menciona un tercer factor distinto."
+    ]
+  },
+  {
+    "id": "c37-alt-01",
+    "tipo": "alternativa",
+    "cap": 37,
+    "habilidad": "personajes",
+    "puntos": 1,
+    "pregunta": "¿Cuál es el secreto de María?",
+    "opciones": [
+      "No sabe hablar todavía.",
+      "Es superdotada y habla con normalidad cuando no hay adultos.",
+      "Quiere convertirse en punk.",
+      "Es quien escribió los libros perdidos."
+    ],
+    "correcta": 1,
+    "explicacion": "María oculta sus capacidades y actúa como una guagua frente a los adultos."
+  },
+  {
+    "id": "c37-alt-02",
+    "tipo": "alternativa",
+    "cap": 37,
+    "habilidad": "inferencial",
+    "puntos": 1,
+    "pregunta": "¿Por qué María prefiere seguir aparentando que es una guagua?",
+    "opciones": [
+      "Para no ir al colegio y seguir recibiendo cuidados sin responsabilidades.",
+      "Porque le da miedo hablar.",
+      "Porque Julito se lo ordena.",
+      "Para engañar a Rodrigo y quitarle comida."
+    ],
+    "correcta": 0,
+    "explicacion": "Ella quiere vivir su infancia y que continúen alimentándola y cuidándola."
+  },
+  {
+    "id": "c37-vf-01",
+    "tipo": "verdadero_falso",
+    "cap": 37,
+    "habilidad": "personajes",
+    "puntos": 1,
+    "afirmacion": "Julito presenta un plan detallado y serio para enfrentar el regreso de Andrea.",
+    "correcta": false,
+    "explicacion": "Solo responde que intentará “aperrar” y vuelve a evitar el tema con chistes."
+  },
+  {
+    "id": "c37-ab-01",
+    "tipo": "abierta",
+    "cap": 37,
+    "habilidad": "inferencial",
+    "puntos": 2,
+    "pregunta": "¿Qué quiere decir María cuando acusa a Julito de “evitar la realidad con chistes”?",
+    "respuestaModelo": "Que Julito usa el humor para escapar de emociones difíciles, especialmente del miedo a que Andrea haya cambiado, en vez de reconocer lo que siente y pensar cómo actuar.",
+    "criterios": [
+      "Explica la función de evasión del humor.",
+      "Relaciona la explicación con Andrea o con un miedo concreto de Julito."
+    ]
+  },
+  {
+    "id": "c38-alt-01",
+    "tipo": "alternativa",
+    "cap": 38,
+    "habilidad": "acontecimientos",
+    "puntos": 1,
+    "pregunta": "¿Cómo queda el pelo de Beltrán después de tantas duchas?",
+    "opciones": [
+      "Completamente azul.",
+      "Casi totalmente negro otra vez.",
+      "Verde.",
+      "Rapado."
+    ],
+    "correcta": 1,
+    "explicacion": "El tinte se destiñe y el pelo vuelve en un 99 % a su color anterior."
+  },
+  {
+    "id": "c38-alt-02",
+    "tipo": "alternativa",
+    "cap": 38,
+    "habilidad": "acontecimientos",
+    "puntos": 1,
+    "pregunta": "¿Qué noticia da Rosa sobre el antiguo El inka guatón?",
+    "opciones": [
+      "Fue demolido.",
+      "Continúa como delivery en otro lugar y la familia también es socia.",
+      "Se convirtió en biblioteca.",
+      "Fue vendido a Rodrigo."
+    ],
+    "correcta": 1,
+    "explicacion": "Los Bertos, Laura y Antonia continúan el negocio peruano a unas cuadras."
+  },
+  {
+    "id": "c38-vf-01",
+    "tipo": "verdadero_falso",
+    "cap": 38,
+    "habilidad": "inferencial",
+    "puntos": 1,
+    "afirmacion": "Después del éxito del restaurante, los padres siguen tan tensos como durante los días posteriores al robo.",
+    "correcta": false,
+    "explicacion": "Aparecen descansados, cariñosos y mucho más relajados."
+  },
+  {
+    "id": "c38-ab-01",
+    "tipo": "abierta",
+    "cap": 38,
+    "habilidad": "inferencial",
+    "puntos": 2,
+    "pregunta": "¿Qué señales muestran que la situación de la familia comienza a mejorar?",
+    "respuestaModelo": "Los padres descansan y están de buen ánimo, el nuevo restaurante tuvo éxito, existe el delivery peruano como segundo negocio y Beltrán vuelve a una apariencia más normal.",
+    "criterios": [
+      "Menciona una señal económica o laboral de mejora.",
+      "Menciona una señal emocional o familiar de mejora."
+    ]
+  },
+  {
+    "id": "c39-alt-01",
+    "tipo": "alternativa",
+    "cap": 39,
+    "habilidad": "personajes",
+    "puntos": 1,
+    "pregunta": "¿Para qué está ahorrando Moncho?",
+    "opciones": [
+      "Para comprar una bicicleta.",
+      "Para asistir a un recital de Ozzy.",
+      "Para viajar a Haití.",
+      "Para abrir una biblioteca."
+    ],
+    "correcta": 1,
+    "explicacion": "Moncho teme que los ídolos de su juventud sigan envejeciendo y quiere ver el recital."
+  },
+  {
+    "id": "c39-alt-02",
+    "tipo": "alternativa",
+    "cap": 39,
+    "habilidad": "acontecimientos",
+    "puntos": 1,
+    "pregunta": "¿Cuál de estas situaciones contribuye a la felicidad de Rosa?",
+    "opciones": [
+      "Rodrigo decide quedarse para siempre.",
+      "Julio acepta que ella escriba primero y se hará cargo de la casa.",
+      "El restaurante vuelve a cerrar.",
+      "Beltrán se tiñe nuevamente."
+    ],
+    "correcta": 1,
+    "explicacion": "Rosa por fin tendrá tiempo y espacio para retomar su propio libro."
+  },
+  {
+    "id": "c39-vf-01",
+    "tipo": "verdadero_falso",
+    "cap": 39,
+    "habilidad": "acontecimientos",
+    "puntos": 1,
+    "afirmacion": "Rodrigo se queda con todo el dinero de sus cuadros y no entrega nada a la familia.",
+    "correcta": false,
+    "explicacion": "Entrega una parte para compensar su estadía y utiliza el resto para continuar viajando."
+  },
+  {
+    "id": "c39-ab-01",
+    "tipo": "abierta",
+    "cap": 39,
+    "habilidad": "acontecimientos",
+    "puntos": 3,
+    "pregunta": "Explica cómo cambió la situación económica y laboral de la familia desde el robo hasta este capítulo.",
+    "respuestaModelo": "Tras perder objetos, libros e ingresos, la familia reconstruyó el restaurante con sus trabajadores, vendió cuadros, obtuvo trabajos de nombres comerciales y organizó nuevos negocios. Todavía debe recuperarse, pero ya cuenta con varias fuentes de ingreso.",
+    "criterios": [
+      "Menciona la crisis inicial provocada por el robo.",
+      "Menciona al menos dos nuevas fuentes de trabajo o ingreso.",
+      "Explica que la situación mejora aunque no desaparecen todos los problemas."
+    ]
+  },
+  {
+    "id": "c40-alt-01",
+    "tipo": "alternativa",
+    "cap": 40,
+    "habilidad": "acontecimientos",
+    "puntos": 1,
+    "pregunta": "¿Qué libro termina escribiendo Julio en lugar de la historia del súper salami?",
+    "opciones": [
+      "La historia de Haití.",
+      "La leyenda de los peos tiernos.",
+      "Una guía de tribus urbanas.",
+      "El mapa de mi vida."
+    ],
+    "correcta": 1,
+    "explicacion": "Julio recupera de memoria una historia breve que contaba cuando sus hijos eran pequeños."
+  },
+  {
+    "id": "c40-alt-02",
+    "tipo": "alternativa",
+    "cap": 40,
+    "habilidad": "acontecimientos",
+    "puntos": 1,
+    "pregunta": "¿Cómo reciben los críticos al nuevo restaurante haitiano?",
+    "opciones": [
+      "Con indiferencia.",
+      "Como un éxito total.",
+      "Con rechazo por ser demasiado novedoso.",
+      "Piden que vuelva de inmediato a la cocina peruana."
+    ],
+    "correcta": 1,
+    "explicacion": "Las críticas son muy favorables y celebran la cocina haitiana."
+  },
+  {
+    "id": "c40-vf-01",
+    "tipo": "verdadero_falso",
+    "cap": 40,
+    "habilidad": "personajes",
+    "puntos": 1,
+    "afirmacion": "Aarón mantiene estrictamente su dieta vegana durante todo el fin de semana.",
+    "correcta": false,
+    "explicacion": "Confiesa que comió un churrasco porque echaba de menos la carne."
+  },
+  {
+    "id": "c40-ab-01",
+    "tipo": "abierta",
+    "cap": 40,
+    "habilidad": "reflexion",
+    "puntos": 2,
+    "pregunta": "¿Qué muestra la decisión de Julio de abandonar el súper salami y escribir otra historia?",
+    "respuestaModelo": "Muestra capacidad de adaptarse: reconoce que la idea original no funcionaría, rescata un relato que domina y termina un libro viable en vez de quedarse paralizado.",
+    "criterios": [
+      "Menciona que reconoce un problema de la idea original.",
+      "Explica que busca una alternativa posible y logra avanzar."
+    ]
+  },
+  {
+    "id": "c41-alt-01",
+    "tipo": "alternativa",
+    "cap": 41,
+    "habilidad": "acontecimientos",
+    "puntos": 1,
+    "pregunta": "¿Cuál es la noticia que Desbordes presenta como “buena”?",
+    "opciones": [
+      "Que no habrá clases.",
+      "Que está embarazada.",
+      "Que los youtubers visitarán el colegio.",
+      "Que Aarón resolvió su problema."
+    ],
+    "correcta": 1,
+    "explicacion": "El curso queda en silencio después del anuncio de su embarazo."
+  },
+  {
+    "id": "c41-alt-02",
+    "tipo": "alternativa",
+    "cap": 41,
+    "habilidad": "literal",
+    "puntos": 1,
+    "pregunta": "¿Cuál es la supuesta mala noticia de Desbordes?",
+    "opciones": [
+      "Que el colegio cerrará.",
+      "Que los youtubers son perseguidos por admiradores y no pueden vivir tranquilos.",
+      "Que prohibirán los celulares.",
+      "Que la biblioteca perdió sus libros."
+    ],
+    "correcta": 1,
+    "explicacion": "La profesora lamenta que los seguidores invadan la privacidad de los youtubers."
+  },
+  {
+    "id": "c41-vf-01",
+    "tipo": "verdadero_falso",
+    "cap": 41,
+    "habilidad": "personajes",
+    "puntos": 1,
+    "afirmacion": "Desbordes se presenta como una persona siempre tranquila y asegura que el embarazo no afectará su humor.",
+    "correcta": false,
+    "explicacion": "Advierte que puede tener cambios de humor, aunque los alumnos ya la consideran muy negativa."
+  },
+  {
+    "id": "c41-ab-01",
+    "tipo": "abierta",
+    "cap": 41,
+    "habilidad": "inferencial",
+    "puntos": 2,
+    "pregunta": "¿Cómo usa Julito la exageración para expresar lo que siente hacia Desbordes?",
+    "respuestaModelo": "La llama “mini Sauron rubio”, habla de un imperio oscuro y presenta sus clases como terroríficas. Estas exageraciones muestran miedo, rechazo y humor, no una descripción literal.",
+    "criterios": [
+      "Menciona una exageración o comparación del narrador.",
+      "Explica la emoción o actitud que comunica."
+    ]
+  },
+  {
+    "id": "c42-alt-01",
+    "tipo": "alternativa",
+    "cap": 42,
+    "habilidad": "acontecimientos",
+    "puntos": 1,
+    "pregunta": "¿Qué hacen Marilú y Vaca durante el recreo mientras Aarón espera?",
+    "opciones": [
+      "Compiten en una carrera.",
+      "Conversan entre ellas para decidir qué harán.",
+      "Se van del colegio.",
+      "Preparan una exposición."
+    ],
+    "correcta": 1,
+    "explicacion": "Aarón espera a cierta distancia el resultado de sus conversaciones."
+  },
+  {
+    "id": "c42-alt-02",
+    "tipo": "alternativa",
+    "cap": 42,
+    "habilidad": "acontecimientos",
+    "puntos": 1,
+    "pregunta": "¿Qué noticia sobre Andrea le recuerda Anita María a Julito?",
+    "opciones": [
+      "Que seguirá varios meses en Argentina.",
+      "Que llega ese día y lo visitará durante la tarde.",
+      "Que se hizo profesora.",
+      "Que cambió de colegio."
+    ],
+    "correcta": 1,
+    "explicacion": "La llegada cercana de Andrea explica el nerviosismo de Julito."
+  },
+  {
+    "id": "c42-vf-01",
+    "tipo": "verdadero_falso",
+    "cap": 42,
+    "habilidad": "reflexion",
+    "puntos": 1,
+    "afirmacion": "Anita María afirma que, si todas las personas fueran iguales, la vida sería más interesante.",
+    "correcta": false,
+    "explicacion": "Dice exactamente lo contrario: la igualdad total convertiría la vida en una tremenda lata."
+  },
+  {
+    "id": "c42-ab-01",
+    "tipo": "abierta",
+    "cap": 42,
+    "habilidad": "reflexion",
+    "puntos": 2,
+    "pregunta": "¿Qué significa la idea de Anita María de que las personas distintas pueden “complementarse”?",
+    "respuestaModelo": "Que las diferencias de gustos, personalidades o estilos no impiden relacionarse; pueden aportar cualidades distintas y enriquecer una amistad o pareja.",
+    "criterios": [
+      "Explica que las diferencias no impiden una relación.",
+      "Menciona que esas diferencias pueden aportar o enriquecer."
+    ]
+  },
+  {
+    "id": "c43-alt-01",
+    "tipo": "alternativa",
+    "cap": 43,
+    "habilidad": "inferencial",
+    "puntos": 1,
+    "pregunta": "¿Qué nota Julito que falta cuando vuelve a la casa?",
+    "opciones": [
+      "La puerta principal.",
+      "El olor del tío Rodrigo, porque ya se fue.",
+      "La mesa de la cocina.",
+      "La voz de María."
+    ],
+    "correcta": 1,
+    "explicacion": "El comentario humorístico confirma que Rodrigo ya partió."
+  },
+  {
+    "id": "c43-alt-02",
+    "tipo": "alternativa",
+    "cap": 43,
+    "habilidad": "acontecimientos",
+    "puntos": 1,
+    "pregunta": "¿Qué nuevo producto está ayudando a nombrar Rosa?",
+    "opciones": [
+      "Perfumes con aroma a flores.",
+      "Helados, incluido uno con sabor a tabaco.",
+      "Bebidas energéticas.",
+      "Comida para mascotas."
+    ],
+    "correcta": 1,
+    "explicacion": "Después de los cosméticos, Rosa recibe un encargo para inventar nombres y sabores de helados."
+  },
+  {
+    "id": "c43-vf-01",
+    "tipo": "verdadero_falso",
+    "cap": 43,
+    "habilidad": "literal",
+    "puntos": 1,
+    "afirmacion": "Rebolledo y Monsalve están en el restaurante usando sus uniformes policiales.",
+    "correcta": false,
+    "explicacion": "Julito los ve sentados sin uniforme."
+  },
+  {
+    "id": "c43-ab-01",
+    "tipo": "abierta",
+    "cap": 43,
+    "habilidad": "inferencial",
+    "puntos": 2,
+    "pregunta": "¿Qué revela la manera extremadamente lenta en que Julito va a abrir la puerta?",
+    "respuestaModelo": "Revela que está muy nervioso porque espera encontrarse con Andrea y teme no saber cómo reaccionar ante su posible cambio. Retrasar el momento le permite evitarlo unos segundos.",
+    "criterios": [
+      "Identifica el nerviosismo o temor de Julito.",
+      "Relaciona la lentitud con la llegada de Andrea o con evitar el encuentro."
+    ]
+  },
+  {
+    "id": "c44-alt-01",
+    "tipo": "alternativa",
+    "cap": 44,
+    "habilidad": "acontecimientos",
+    "puntos": 1,
+    "pregunta": "¿Por qué Andrea llega vestida y maquillada de estilo dark?",
+    "opciones": [
+      "Porque adoptó definitivamente esa identidad.",
+      "Porque está realizando una broma para asustar a Julito.",
+      "Porque participa en una obra del colegio.",
+      "Porque olvidó su ropa habitual."
+    ],
+    "correcta": 1,
+    "explicacion": "La transformación era parte de un plan para hacerle creer a Julito que había cambiado por completo."
+  },
+  {
+    "id": "c44-alt-02",
+    "tipo": "alternativa",
+    "cap": 44,
+    "habilidad": "personajes",
+    "puntos": 1,
+    "pregunta": "¿Quiénes ayudaron a Andrea a planear la broma?",
+    "opciones": [
+      "Aarón y Vaca.",
+      "Anita María, Cabezas y Mardones.",
+      "Rosa y Julio.",
+      "Beltrán y Rodrigo."
+    ],
+    "correcta": 1,
+    "explicacion": "Los tres querían devolverle a Julito parte de las burlas y prejuicios que había mostrado."
+  },
+  {
+    "id": "c44-vf-01",
+    "tipo": "verdadero_falso",
+    "cap": 44,
+    "habilidad": "acontecimientos",
+    "puntos": 1,
+    "afirmacion": "Andrea termina el encuentro diciendo que Julito no le importa y que no quiere volver a verlo.",
+    "correcta": false,
+    "explicacion": "Le confiesa que realizó la broma porque él le importa y lo quiere mucho."
+  },
+  {
+    "id": "c44-ab-01",
+    "tipo": "abierta",
+    "cap": 44,
+    "habilidad": "reflexion",
+    "puntos": 2,
+    "pregunta": "¿Por qué la broma puede entenderse como una respuesta a los prejuicios de Julito?",
+    "respuestaModelo": "Porque lo obliga a sentir desconcierto y miedo frente a una apariencia distinta, después de que él se había burlado o imaginado estereotipos sobre otras personas. Así experimenta las consecuencias de juzgar antes de conocer.",
+    "criterios": [
+      "Relaciona la broma con las burlas o estereotipos previos de Julito.",
+      "Explica que Julito experimenta el efecto de juzgar por la apariencia."
+    ]
+  },
+  {
+    "id": "c45-alt-01",
+    "tipo": "alternativa",
+    "cap": 45,
+    "habilidad": "inferencial",
+    "puntos": 1,
+    "pregunta": "¿Cuál es la “única tribu” que Julito considera realmente importante al final?",
+    "opciones": [
+      "La punk.",
+      "La familia.",
+      "La new wave.",
+      "La hípster."
+    ],
+    "correcta": 1,
+    "explicacion": "El cierre sostiene que la familia permanece unida a pesar de todos los cambios."
+  },
+  {
+    "id": "c45-alt-02",
+    "tipo": "alternativa",
+    "cap": 45,
+    "habilidad": "acontecimientos",
+    "puntos": 1,
+    "pregunta": "¿Cómo queda la situación de Aarón, Marilú y Vaca?",
+    "opciones": [
+      "Aarón elige inmediatamente a Marilú.",
+      "Marilú y Vaca siguen conversando y dicen que tardarán meses en decidir.",
+      "Las dos dejan de hablar con Aarón para siempre.",
+      "Aarón se cambia de colegio."
+    ],
+    "correcta": 1,
+    "explicacion": "El conflicto amoroso queda abierto y las dos niñas continúan en conversaciones."
+  },
+  {
+    "id": "c45-vf-01",
+    "tipo": "verdadero_falso",
+    "cap": 45,
+    "habilidad": "acontecimientos",
+    "puntos": 1,
+    "afirmacion": "Beltrán conserva el pelo azul y toda su apariencia punk al terminar el libro.",
+    "correcta": false,
+    "explicacion": "Solo conserva una chapita punk; el tinte azul desapareció casi por completo."
+  },
+  {
+    "id": "c45-ab-01",
+    "tipo": "abierta",
+    "cap": 45,
+    "habilidad": "reflexion",
+    "puntos": 3,
+    "pregunta": "Explica el mensaje final “la única tribu que realmente importa es la familia” usando dos hechos del libro.",
+    "respuestaModelo": "La familia enfrenta un robo, problemas económicos, cambios de identidad y discusiones, pero coopera, busca soluciones y vuelve a reunirse. Por ejemplo, reabre el restaurante y se apoya para que ambos padres puedan escribir.",
+    "criterios": [
+      "Explica que la unión familiar permanece a pesar de los cambios.",
+      "Incluye un primer hecho pertinente.",
+      "Incluye un segundo hecho distinto."
+    ]
+  }
+]
