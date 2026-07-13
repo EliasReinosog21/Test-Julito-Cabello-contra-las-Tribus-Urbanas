@@ -8,12 +8,12 @@ module.exports=async function handler(req,res){
   if(!verificarAcceso(req,res)) return;
 
   try{
-    const resultado=await probarConexion();
+    const resultado=await probarConexion(req);
     if(!resultado.configurada){
       return json(res,503,{
         ok:false,
         configurada:false,
-        error:'No se encontró AI_GATEWAY_API_KEY ni VERCEL_OIDC_TOKEN.'
+        error:'No se encontró AI_GATEWAY_API_KEY ni un token OIDC en la solicitud. Verifica que OIDC Federation esté habilitado en Vercel.'
       });
     }
 

@@ -1,6 +1,32 @@
+
+## Activar OIDC en Vercel
+
+La autenticación sin API key requiere habilitar **Secure Backend Access with OIDC Federation**:
+
+1. Vercel → proyecto → **Settings** → **Security**.
+2. En **Secure Backend Access with OIDC Federation**, habilita OIDC.
+3. Usa el modo de emisor **Team** (recomendado).
+4. Guarda y realiza un **Redeploy** sin reutilizar la caché.
+
+En tiempo de ejecución, Vercel entrega el token en el encabezado `x-vercel-oidc-token`; esta versión lo lee desde cada solicitud.
+
+Prueba luego:
+
+- `/api/ia/estado` debe devolver `configurada: true` y `autenticacion: "oidc"`.
+- `/api/ia/prueba` debe devolver `operativo: true`.
+
 # Test Julito Cabello — Vercel AI Gateway 4.2
 
 Aplicación de comprensión lectora para los 45 capítulos de *Julito Cabello contra las tribus urbanas*. El banco se mantiene en el servidor, las alternativas se mezclan y las respuestas abiertas reciben una evaluación provisional mediante **Vercel AI Gateway**.
+
+## Qué cambia respecto de la versión con OpenAI
+
+- Ya no se utiliza `OPENAI_API_KEY`.
+- En un despliegue de Vercel se utiliza automáticamente `VERCEL_OIDC_TOKEN`.
+- No es necesario guardar una clave secreta para producción.
+- El modelo predeterminado es `google/gemini-3.1-flash-lite`.
+- El nivel gratuito de AI Gateway entrega créditos mensuales dentro de los modelos habilitados para ese nivel.
+- Si el Gateway no responde o se agota el límite, el test conserva la respuesta para revisión docente.
 
 ## Estructura del repositorio
 

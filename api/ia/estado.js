@@ -10,8 +10,8 @@ const {
 module.exports=function handler(req,res){
   if(!soloMetodo(req,res,'GET')) return;
 
-  const configurada=Boolean(obtenerCredencial());
-  const autenticacion=modoAutenticacion();
+  const configurada=Boolean(obtenerCredencial(req));
+  const autenticacion=modoAutenticacion(req);
 
   return json(res,200,{
     ok:true,

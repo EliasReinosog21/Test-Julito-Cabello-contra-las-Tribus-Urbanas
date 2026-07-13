@@ -21,7 +21,7 @@ module.exports=async function handler(req,res){
       respuestaModelo:p.respuestaModelo,
       criterios:p.criterios,
       puntos:p.puntos
-    });
+    },req);
     if(!resultado.configurada){
       return json(res,200,{ok:true,evaluado:false,motivo:'La IA no está configurada. La respuesta quedó pendiente de revisión docente.',pauta});
     }

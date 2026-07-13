@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="es-CL">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="Test de comprensión lectora de Julito Cabello contra las tribus urbanas para quinto básico.">
+  <title>Test: Julito Cabello contra las tribus urbanas</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Luckiest+Guy&family=Nunito:ital,wght@0,400;0,700;0,900;1,700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="estilos.css">
+</head>
+<body>
+<div class="app">
+  <section id="inicio" class="card">
+    <div class="eyebrow">Prueba de lectura · 5.º básico</div>
+    <h1>Julito Cabello <span>contra las tribus urbanas</span></h1>
+    <p class="lead">Esteban Cabezas · Libro completo, capítulos 1 al 45.<br>El test combina alternativas, verdadero o falso y preguntas abiertas.</p>
+
+    <label class="campo" for="nombre">Nombre del estudiante</label>
+    <input type="text" id="nombre" placeholder="Escribe tu nombre" autocomplete="off" maxlength="80">
+
+    <div class="grid dos">
+      <div>
+        <label class="campo" for="cap">Leí hasta el capítulo</label>
+        <select id="cap"></select>
+      </div>
+      <div>
+        <label class="campo" for="largo">Cantidad de preguntas</label>
+        <select id="largo">
+          <option value="10">10 preguntas</option>
+          <option value="15">15 preguntas</option>
+          <option value="25" selected>25 preguntas</option>
+          <option value="45">45 preguntas: una por capítulo</option>
+          <option value="60">60 preguntas</option>
+        </select>
+      </div>
+    </div>
+
+    <div id="bloqueCodigo" class="oculto">
+      <label class="campo" for="codigoAcceso">Código de acceso del curso</label>
+      <input type="password" id="codigoAcceso" placeholder="Código entregado por el docente" autocomplete="current-password" maxlength="100">
+    </div>
+
+    <div id="estadoIA" class="estado-ia inactivo" role="status">
+      <strong>Comprobando corrección con IA…</strong>
+      <span>La corrección automática usa Vercel AI Gateway y mantiene revisión docente como respaldo.</span>
+    </div>
+
+    <button class="btn" id="empezar">¡Empezar el test!</button>
+    <p class="ayuda">Las alternativas cambian de posición en cada intento. Las respuestas abiertas reciben una evaluación provisional de IA y pueden revisarse manualmente.</p>
+    <div id="errorInicio" class="feedback no oculto" role="alert"></div>
+  </section>
+
+  <section id="test" class="card oculto">
+    <div class="barra"><i id="progreso"></i></div>
+    <div class="meta">
+      <span id="contador">Pregunta 1</span>
+      <span id="marcador">0 chapitas</span>
+    </div>
+    <div class="chapitas" id="chapitas"></div>
+    <hr class="separador">
+    <span class="tag" id="tag"></span><span class="cap" id="capTag"></span>
+    <p class="pregunta" id="pregunta"></p>
+    <div id="zonaRespuesta"></div>
+    <div id="feedback" class="feedback oculto" role="status"></div>
+    <button class="btn sec oculto" id="siguiente">Siguiente →</button>
+  </section>
+
+  <section id="resultado" class="card oculto">
+    <div class="eyebrow" id="medalla">Resultado</div>
+    <div class="puntaje" id="nota"></div>
+    <p class="lead" id="mensaje"></p>
+    <div class="resumen-puntajes" id="resumenPuntajes"></div>
+    <div class="tabla" id="tabla"></div>
+    <button class="btn" id="dnuevo">Realizar otro test</button>
+    <button class="btn gris" id="revisar">Ver revisión</button>
+    <div id="revision" class="oculto" style="margin-top:18px"></div>
+  </section>
+
+  <footer>Las respuestas se guardan solamente en este navegador. La corrección de IA es provisional y no reemplaza la revisión docente.</footer>
+</div>
+<script src="config.js"></script>
+<script src="almacenamiento.js"></script>
+<script src="api-cliente.js"></script>
+<script src="app.js"></script>
+</body>
+</html>

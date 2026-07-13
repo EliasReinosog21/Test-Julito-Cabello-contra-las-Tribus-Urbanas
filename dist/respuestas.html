@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="es-CL">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="robots" content="noindex,nofollow">
+  <title>Revisión docente · Test Julito Cabello</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Luckiest+Guy&family=Nunito:ital,wght@0,400;0,700;0,900;1,700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="estilos.css">
+</head>
+<body>
+<div class="app ancha">
+  <section class="card">
+    <div class="eyebrow">Uso docente local</div>
+    <h1>Respuestas <span>guardadas</span></h1>
+    <p class="lead">Los intentos existen solamente en este navegador. Aquí puedes revisar las respuestas abiertas y reemplazar el puntaje provisional de la IA.</p>
+    <div class="alerta" style="margin-top:14px">Esta página no está enlazada desde el test del estudiante. No constituye autenticación: quien conozca la dirección puede abrirla en el mismo dispositivo.</div>
+    <nav class="nav"><a href="index.html">Volver al test</a></nav>
+  </section>
+
+  <section class="card">
+    <div class="toolbar">
+      <input type="text" id="filtro" placeholder="Buscar por nombre del estudiante">
+      <button class="btn compacto verde" id="exportarJSON">Exportar JSON</button>
+      <button class="btn compacto sec" id="exportarCSV">Exportar CSV</button>
+      <button class="btn compacto rojo" id="borrarTodo">Borrar todo</button>
+    </div>
+    <p id="resumenIntentos" class="ayuda"></p>
+    <div style="overflow:auto">
+      <table class="tabla-respuestas">
+        <thead><tr><th>Estudiante</th><th>Fecha</th><th>Cap.</th><th>Puntaje</th><th>Acción</th></tr></thead>
+        <tbody id="cuerpoIntentos"></tbody>
+      </table>
+    </div>
+  </section>
+
+  <section id="detalle" class="card oculto">
+    <div class="meta"><div><h2 id="detalleNombre"></h2><p id="detalleFecha" class="ayuda"></p></div></div>
+    <div id="detallePuntajes" class="resumen-puntajes"></div>
+    <div id="detalleRespuestas"></div>
+    <div id="mensajeRevision" class="feedback oculto"></div>
+    <div class="botones">
+      <button class="btn verde" id="guardarRevision">Guardar revisión docente</button>
+      <button class="btn rojo" id="eliminarIntento">Eliminar intento</button>
+      <button class="btn gris" id="cerrarDetalle">Cerrar</button>
+    </div>
+  </section>
+
+  <footer>La IA propone una corrección; el puntaje docente prevalece.</footer>
+</div>
+<script src="almacenamiento.js"></script>
+<script src="respuestas.js"></script>
+</body>
+</html>
