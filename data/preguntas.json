@@ -13,7 +13,8 @@
       "Para inaugurar El inka guatón."
     ],
     "correcta": 1,
-    "explicacion": "La salida es una celebración porque ambos padres terminaron los libros en los que habían trabajado durante meses."
+    "explicacion": "La salida es una celebración porque ambos padres terminaron los libros en los que habían trabajado durante meses.",
+    "grupo": "celebracion-libros-padres"
   },
   {
     "id": "c01-alt-02",
@@ -77,7 +78,8 @@
       "Porque habían comprado los computadores ese mismo día."
     ],
     "correcta": 1,
-    "explicacion": "Además de perder los equipos, perdieron meses de trabajo porque los textos no estaban respaldados."
+    "explicacion": "Además de perder los equipos, perdieron meses de trabajo porque los textos no estaban respaldados.",
+    "grupo": "perdida-libros-computadores"
   },
   {
     "id": "c02-alt-03",
@@ -141,7 +143,8 @@
       "Que tienen hambre."
     ],
     "correcta": 2,
-    "explicacion": "En el contexto del libro equivale a “¡Vamos que se puede!”."
+    "explicacion": "En el contexto del libro equivale a “¡Vamos que se puede!”.",
+    "grupo": "fighting-significado-animo"
   },
   {
     "id": "c05-alt-01",
@@ -157,7 +160,8 @@
       "Piden el doble de sueldo."
     ],
     "correcta": 1,
-    "explicacion": "Los trabajadores muestran solidaridad y ayudan a encontrar una salida colectiva."
+    "explicacion": "Los trabajadores muestran solidaridad y ayudan a encontrar una salida colectiva.",
+    "grupo": "trabajadores-ayudan-familia"
   },
   {
     "id": "c06-alt-01",
@@ -173,7 +177,8 @@
       "Portugués."
     ],
     "correcta": 2,
-    "explicacion": "Rosa puede comunicarse en creole gracias a sus conocimientos de francés."
+    "explicacion": "Rosa puede comunicarse en creole gracias a sus conocimientos de francés.",
+    "grupo": "rosa-habla-creole"
   },
   {
     "id": "c08-alt-01",
@@ -205,7 +210,8 @@
       "En Japón."
     ],
     "correcta": 1,
-    "explicacion": "Andrea está en Argentina y se comunica con Julito mediante mensajes."
+    "explicacion": "Andrea está en Argentina y se comunica con Julito mediante mensajes.",
+    "grupo": "andrea-en-argentina"
   },
   {
     "id": "c10-alt-01",
@@ -253,7 +259,8 @@
       "Comienza a escribir novelas de zombis."
     ],
     "correcta": 1,
-    "explicacion": "Guaiquil cambia su apariencia y sus intereses, acercándose a un estilo hípster y orgánico."
+    "explicacion": "Guaiquil cambia su apariencia y sus intereses, acercándose a un estilo hípster y orgánico.",
+    "grupo": "transformacion-guaiquil"
   },
   {
     "id": "c12-alt-02",
@@ -285,7 +292,8 @@
       "Que son hermanos."
     ],
     "correcta": 1,
-    "explicacion": "La revelación lleva a Julito a reflexionar sobre sus prejuicios."
+    "explicacion": "La revelación lleva a Julito a reflexionar sobre sus prejuicios.",
+    "grupo": "prejuicio-cabezas-mardones"
   },
   {
     "id": "c13-alt-02",
@@ -333,7 +341,8 @@
       "Un equipo deportivo."
     ],
     "correcta": 1,
-    "explicacion": "Las tribus urbanas ofrecen identidad y sentido de pertenencia a quienes comparten ciertos códigos."
+    "explicacion": "Las tribus urbanas ofrecen identidad y sentido de pertenencia a quienes comparten ciertos códigos.",
+    "grupo": "definicion-tribu-urbana"
   },
   {
     "id": "c16-alt-01",
@@ -349,7 +358,8 @@
       "Que se hizo vegana."
     ],
     "correcta": 1,
-    "explicacion": "El mensaje deja a Julito preocupado y obliga al personaje a enfrentar lo que siente."
+    "explicacion": "El mensaje deja a Julito preocupado y obliga al personaje a enfrentar lo que siente.",
+    "grupo": "andrea-pide-tiempo"
   },
   {
     "id": "c18-alt-01",
@@ -381,7 +391,8 @@
       "Otaku."
     ],
     "correcta": 2,
-    "explicacion": "Moncho cuenta que fue metalero y recuerda sus conciertos y su forma de vestir."
+    "explicacion": "Moncho cuenta que fue metalero y recuerda sus conciertos y su forma de vestir.",
+    "grupo": "moncho-metalero"
   },
   {
     "id": "c02-vf-01",
@@ -391,7 +402,8 @@
     "puntos": 1,
     "afirmacion": "Julio y Rosa tenían copias de sus libros guardadas en internet.",
     "correcta": false,
-    "explicacion": "No tenían respaldo en la nube, por eso perdieron meses de trabajo."
+    "explicacion": "No tenían respaldo en la nube, por eso perdieron meses de trabajo.",
+    "grupo": "perdida-libros-computadores"
   },
   {
     "id": "c04-vf-01",
@@ -401,7 +413,8 @@
     "puntos": 1,
     "afirmacion": "María sorprende a la familia al levantar el puño y decir “¡Fighting!”.",
     "correcta": true,
-    "explicacion": "La intervención de María anima a la familia en un momento difícil."
+    "explicacion": "La intervención de María anima a la familia en un momento difícil.",
+    "grupo": "fighting-significado-animo"
   },
   {
     "id": "c05-vf-01",
@@ -411,7 +424,8 @@
     "puntos": 1,
     "afirmacion": "Los “Bertos” son los ladrones que entraron a la casa de la familia Cabello.",
     "correcta": false,
-    "explicacion": "Los Bertos son trabajadores del restaurante y ayudan a la familia."
+    "explicacion": "Los Bertos son trabajadores del restaurante y ayudan a la familia.",
+    "grupo": "quienes-son-bertos"
   },
   {
     "id": "c06-vf-01",
@@ -421,7 +435,8 @@
     "puntos": 1,
     "afirmacion": "Rosa logra hablar con los trabajadores haitianos usando creole.",
     "correcta": true,
-    "explicacion": "Sus conocimientos de francés le permiten comunicarse en creole."
+    "explicacion": "Sus conocimientos de francés le permiten comunicarse en creole.",
+    "grupo": "rosa-habla-creole"
   },
   {
     "id": "c08-vf-01",
@@ -431,7 +446,8 @@
     "puntos": 1,
     "afirmacion": "Andrea se encuentra en Argentina y está reflexionando sobre su identidad.",
     "correcta": true,
-    "explicacion": "Su viaje y sus mensajes muestran que está en un proceso de búsqueda personal."
+    "explicacion": "Su viaje y sus mensajes muestran que está en un proceso de búsqueda personal.",
+    "grupo": "andrea-en-argentina"
   },
   {
     "id": "c13-vf-01",
@@ -441,7 +457,8 @@
     "puntos": 1,
     "afirmacion": "Julito comprende de inmediato y sin prejuicios la relación entre Cabezas y Mardones.",
     "correcta": false,
-    "explicacion": "Al principio reacciona con ideas preconcebidas y luego comienza a cuestionarlas."
+    "explicacion": "Al principio reacciona con ideas preconcebidas y luego comienza a cuestionarlas.",
+    "grupo": "prejuicio-cabezas-mardones"
   },
   {
     "id": "c15-vf-01",
@@ -451,7 +468,8 @@
     "puntos": 1,
     "afirmacion": "Beltrán explica que las tribus urbanas son lo mismo que los pueblos originarios.",
     "correcta": false,
-    "explicacion": "Aclara que son agrupaciones urbanas con estilos y códigos compartidos."
+    "explicacion": "Aclara que son agrupaciones urbanas con estilos y códigos compartidos.",
+    "grupo": "definicion-tribu-urbana"
   },
   {
     "id": "c18-vf-01",
@@ -461,7 +479,8 @@
     "puntos": 1,
     "afirmacion": "Moncho cuenta que durante su juventud fue metalero.",
     "correcta": true,
-    "explicacion": "Su relato muestra que también tuvo una identidad ligada a una tribu urbana."
+    "explicacion": "Su relato muestra que también tuvo una identidad ligada a una tribu urbana.",
+    "grupo": "moncho-metalero"
   },
   {
     "id": "c02-ab-01",
@@ -487,7 +506,8 @@
     "criterios": [
       "Explica la pérdida material de los computadores.",
       "Explica la pérdida de los textos o del trabajo acumulado."
-    ]
+    ],
+    "grupo": "perdida-libros-computadores"
   },
   {
     "id": "c05-ab-01",
@@ -500,7 +520,8 @@
     "criterios": [
       "Identifica una cualidad, como solidaridad o compromiso.",
       "Fundamenta con una acción realizada por los trabajadores."
-    ]
+    ],
+    "grupo": "trabajadores-ayudan-familia"
   },
   {
     "id": "c06-ab-01",
@@ -513,7 +534,8 @@
     "criterios": [
       "Reconoce que Julito descubre una faceta desconocida de su madre.",
       "Explica que comprende que ella tuvo una vida previa y conocimientos propios."
-    ]
+    ],
+    "grupo": "rosa-habla-creole"
   },
   {
     "id": "c13-ab-01",
@@ -526,7 +548,8 @@
     "criterios": [
       "Menciona el rechazo a los prejuicios o estereotipos.",
       "Menciona el respeto hacia las diferencias o las minorías."
-    ]
+    ],
+    "grupo": "prejuicio-cabezas-mardones"
   },
   {
     "id": "c14-ab-01",
@@ -565,7 +588,8 @@
     "criterios": [
       "Identifica preocupación, inseguridad o miedo a perder a Andrea.",
       "Explica que le cuesta reconocer o expresar lo que siente."
-    ]
+    ],
+    "grupo": "andrea-pide-tiempo"
   },
   {
     "id": "c18-ab-01",
@@ -624,7 +648,8 @@
       "Porque quería trabajar en el restaurante."
     ],
     "correcta": 1,
-    "explicacion": "Rodrigo adelanta su llegada aprovechando un vuelo económico, aunque tenía numerosas escalas."
+    "explicacion": "Rodrigo adelanta su llegada aprovechando un vuelo económico, aunque tenía numerosas escalas.",
+    "grupo": "llegada-anticipada-rodrigo"
   },
   {
     "id": "c05-alt-02",
@@ -640,7 +665,8 @@
       "Los compañeros de curso de Beltrán."
     ],
     "correcta": 1,
-    "explicacion": "El apodo reúne a Edelberto, Gilberto, Norberto, Wilberto y Alberto, trabajadores de El inka guatón."
+    "explicacion": "El apodo reúne a Edelberto, Gilberto, Norberto, Wilberto y Alberto, trabajadores de El inka guatón.",
+    "grupo": "quienes-son-bertos"
   },
   {
     "id": "c05-alt-03",
@@ -656,7 +682,8 @@
       "El sueldo del tío Rodrigo."
     ],
     "correcta": 1,
-    "explicacion": "Tras el robo, prácticamente solo quedan ahorros que tenían otros propósitos familiares."
+    "explicacion": "Tras el robo, prácticamente solo quedan ahorros que tenían otros propósitos familiares.",
+    "grupo": "dinero-restante-familia"
   },
   {
     "id": "c05-alt-04",
@@ -688,7 +715,8 @@
       "Rodrigo le tradujo todo."
     ],
     "correcta": 0,
-    "explicacion": "Rosa aprovecha sus conocimientos de francés para comunicarse en creole haitiano."
+    "explicacion": "Rosa aprovecha sus conocimientos de francés para comunicarse en creole haitiano.",
+    "grupo": "rosa-habla-creole"
   },
   {
     "id": "c07-alt-01",
@@ -704,7 +732,8 @@
       "Rodrigo pagará todas las reparaciones."
     ],
     "correcta": 1,
-    "explicacion": "El equipo combina solidaridad con una iniciativa empresarial respaldada por sus ahorros, un contador y un abogado."
+    "explicacion": "El equipo combina solidaridad con una iniciativa empresarial respaldada por sus ahorros, un contador y un abogado.",
+    "grupo": "trabajadores-ayudan-familia"
   },
   {
     "id": "c09-alt-01",
@@ -736,7 +765,8 @@
       "Llevan los libros de los padres al colegio."
     ],
     "correcta": 0,
-    "explicacion": "La llegada de provisiones y utensilios indica que el restaurante está siendo equipado nuevamente."
+    "explicacion": "La llegada de provisiones y utensilios indica que el restaurante está siendo equipado nuevamente.",
+    "grupo": "reconstruccion-restaurante"
   },
   {
     "id": "c10-alt-02",
@@ -752,7 +782,8 @@
       "Afiches de cocina peruana."
     ],
     "correcta": 1,
-    "explicacion": "La ambientación del colegio refleja el estilo hippie y las creencias de la directora."
+    "explicacion": "La ambientación del colegio refleja el estilo hippie y las creencias de la directora.",
+    "grupo": "estilo-dona-lupe"
   },
   {
     "id": "c11-alt-02",
@@ -768,7 +799,8 @@
       "Historia de España."
     ],
     "correcta": 1,
-    "explicacion": "Julito recurre a Anita María para buscar información sobre zombis."
+    "explicacion": "Julito recurre a Anita María para buscar información sobre zombis.",
+    "grupo": "julito-busca-zombis"
   },
   {
     "id": "c14-alt-02",
@@ -784,7 +816,8 @@
       "Que la mayoría siempre tiene la razón."
     ],
     "correcta": 1,
-    "explicacion": "Julito empieza a cuestionar sus prejuicios y a reconocer la dificultad de pertenecer a una minoría."
+    "explicacion": "Julito empieza a cuestionar sus prejuicios y a reconocer la dificultad de pertenecer a una minoría.",
+    "grupo": "prejuicio-cabezas-mardones"
   },
   {
     "id": "c15-alt-02",
@@ -864,7 +897,8 @@
       "Que usa dibujos en lugar de palabras."
     ],
     "correcta": 0,
-    "explicacion": "En este contexto, análogo se opone a digital: Rosa escribe a mano en un cuaderno."
+    "explicacion": "En este contexto, análogo se opone a digital: Rosa escribe a mano en un cuaderno.",
+    "grupo": "rosa-escritura-analoga"
   },
   {
     "id": "c03-vf-02",
@@ -874,7 +908,8 @@
     "puntos": 1,
     "afirmacion": "Rodrigo llega antes de lo previsto porque consiguió un vuelo económico con numerosas escalas.",
     "correcta": true,
-    "explicacion": "La llegada adelantada de Rodrigo sorprende a la familia."
+    "explicacion": "La llegada adelantada de Rodrigo sorprende a la familia.",
+    "grupo": "llegada-anticipada-rodrigo"
   },
   {
     "id": "c05-vf-02",
@@ -884,7 +919,8 @@
     "puntos": 1,
     "afirmacion": "Después del robo, Rosa afirma que todavía conservan abundante dinero para gastar libremente.",
     "correcta": false,
-    "explicacion": "La familia está casi sin dinero; lo que queda corresponde a ahorros destinados a necesidades importantes."
+    "explicacion": "La familia está casi sin dinero; lo que queda corresponde a ahorros destinados a necesidades importantes.",
+    "grupo": "dinero-restante-familia"
   },
   {
     "id": "c07-vf-01",
@@ -894,7 +930,8 @@
     "puntos": 1,
     "afirmacion": "Los trabajadores cuentan con ahorros y preparan una propuesta de sociedad con apoyo de un contador y un abogado.",
     "correcta": true,
-    "explicacion": "Su plan demuestra que tienen organización y proyectos propios fuera de su trabajo cotidiano."
+    "explicacion": "Su plan demuestra que tienen organización y proyectos propios fuera de su trabajo cotidiano.",
+    "grupo": "trabajadores-ayudan-familia"
   },
   {
     "id": "c09-vf-01",
@@ -914,7 +951,8 @@
     "puntos": 1,
     "afirmacion": "Doña Lupe rechaza el incienso, los cuarzos y los amuletos.",
     "correcta": false,
-    "explicacion": "Esos elementos forman parte de la ambientación que ella promueve en el colegio."
+    "explicacion": "Esos elementos forman parte de la ambientación que ella promueve en el colegio.",
+    "grupo": "estilo-dona-lupe"
   },
   {
     "id": "c11-vf-01",
@@ -924,7 +962,8 @@
     "puntos": 1,
     "afirmacion": "Julito acude a Anita María para buscar libros relacionados con zombis.",
     "correcta": true,
-    "explicacion": "La biblioteca se convierte en un lugar de investigación para Julito."
+    "explicacion": "La biblioteca se convierte en un lugar de investigación para Julito.",
+    "grupo": "julito-busca-zombis"
   },
   {
     "id": "c16-vf-01",
@@ -934,7 +973,8 @@
     "puntos": 1,
     "afirmacion": "Andrea le comunica a Julito que necesita darse un tiempo mientras busca su identidad.",
     "correcta": true,
-    "explicacion": "El mensaje deja a Julito preocupado y triste."
+    "explicacion": "El mensaje deja a Julito preocupado y triste.",
+    "grupo": "andrea-pide-tiempo"
   },
   {
     "id": "c17-vf-01",
@@ -954,7 +994,8 @@
     "puntos": 1,
     "afirmacion": "Rosa escribe a mano en un cuaderno y toma una gran cantidad de café.",
     "correcta": true,
-    "explicacion": "La escena muestra su esfuerzo por volver a escribir después de perder el archivo digital."
+    "explicacion": "La escena muestra su esfuerzo por volver a escribir después de perder el archivo digital.",
+    "grupo": "rosa-escritura-analoga"
   },
   {
     "id": "c03-ab-01",
@@ -981,7 +1022,8 @@
       "Identifica la solidaridad o disposición a ayudar.",
       "Identifica iniciativa, organización o visión de negocio.",
       "Explica cada cualidad usando una acción del capítulo."
-    ]
+    ],
+    "grupo": "trabajadores-ayudan-familia"
   },
   {
     "id": "c09-ab-01",
@@ -994,7 +1036,8 @@
     "criterios": [
       "Menciona una primera acción concreta de reconstrucción.",
       "Menciona una segunda acción distinta y pertinente."
-    ]
+    ],
+    "grupo": "reconstruccion-restaurante"
   },
   {
     "id": "c10-ab-01",
@@ -1007,7 +1050,8 @@
     "criterios": [
       "Menciona al menos un elemento de la ambientación.",
       "Relaciona esos elementos con el estilo hippie o las creencias de doña Lupe."
-    ]
+    ],
+    "grupo": "estilo-dona-lupe"
   },
   {
     "id": "c17-ab-01",
@@ -1033,7 +1077,8 @@
     "criterios": [
       "Relaciona el cuaderno con la pérdida del computador o del archivo.",
       "Explica que Rosa persevera y decide continuar escribiendo."
-    ]
+    ],
+    "grupo": "rosa-escritura-analoga"
   },
   {
     "id": "c01-vf-01",
@@ -1043,7 +1088,8 @@
     "puntos": 1,
     "afirmacion": "La familia Cabello sale a comer para celebrar que Julio y Rosa terminaron sus respectivos libros.",
     "correcta": true,
-    "explicacion": "La cena en La sana zanahoria celebra el término de los dos manuscritos."
+    "explicacion": "La cena en La sana zanahoria celebra el término de los dos manuscritos.",
+    "grupo": "celebracion-libros-padres"
   },
   {
     "id": "c01-ab-01",
@@ -1101,7 +1147,8 @@
     "criterios": [
       "Explica el significado de ánimo o perseverancia de “Fighting”.",
       "Relaciona la reacción con María y el momento difícil de la familia."
-    ]
+    ],
+    "grupo": "fighting-significado-animo"
   },
   {
     "id": "c08-ab-01",
@@ -1138,7 +1185,8 @@
     "puntos": 1,
     "afirmacion": "Guaiquil afirma que abandonó las redes y la vida virtual para concentrarse en la tierra, los cultivos y los libros.",
     "correcta": true,
-    "explicacion": "El profesor dice que redescubrió las cosas pequeñas y que ahora prefiere la tierra y los libros de Anita María."
+    "explicacion": "El profesor dice que redescubrió las cosas pequeñas y que ahora prefiere la tierra y los libros de Anita María.",
+    "grupo": "transformacion-guaiquil"
   },
   {
     "id": "c12-ab-01",
@@ -1151,7 +1199,8 @@
     "criterios": [
       "Menciona el cambio radical de hábitos o apariencia.",
       "Explica la idea de que sigue siendo Guaiquil, pero parece otra persona."
-    ]
+    ],
+    "grupo": "transformacion-guaiquil"
   },
   {
     "id": "c14-vf-01",
@@ -1161,7 +1210,8 @@
     "puntos": 1,
     "afirmacion": "Después de conversar con Cabezas y Mardones, Julito comprende que pertenecer a una minoría no elimina el derecho a ser respetado y ocupar un espacio.",
     "correcta": true,
-    "explicacion": "Julito reflexiona que ser distinto de la mayoría puede ser difícil, pero no quita derechos."
+    "explicacion": "Julito reflexiona que ser distinto de la mayoría puede ser difícil, pero no quita derechos.",
+    "grupo": "prejuicio-cabezas-mardones"
   },
   {
     "id": "c20-alt-01",
@@ -1258,7 +1308,8 @@
     "puntos": 1,
     "afirmacion": "Cabezas y Mardones explican que su orientación es una moda que pueden elegir y abandonar como una tribu urbana.",
     "correcta": false,
-    "explicacion": "Aclaran que no es una opción ni una moda: nacieron así."
+    "explicacion": "Aclaran que no es una opción ni una moda: nacieron así.",
+    "grupo": "identidad-no-es-tribu"
   },
   {
     "id": "c21-ab-01",
@@ -1271,7 +1322,8 @@
     "criterios": [
       "Explica que una tribu urbana se puede elegir o cambiar.",
       "Explica que la orientación o identidad de los personajes no es una elección."
-    ]
+    ],
+    "grupo": "identidad-no-es-tribu"
   },
   {
     "id": "c22-alt-01",
@@ -1342,7 +1394,8 @@
       "Otaku."
     ],
     "correcta": 1,
-    "explicacion": "Rosa cuenta que fue new wave."
+    "explicacion": "Rosa cuenta que fue new wave.",
+    "grupo": "padres-new-wave"
   },
   {
     "id": "c23-alt-02",
@@ -1358,7 +1411,8 @@
       "Aarón y Moncho."
     ],
     "correcta": 1,
-    "explicacion": "La foto muestra al padre y al tío de Julito durante su juventud new wave."
+    "explicacion": "La foto muestra al padre y al tío de Julito durante su juventud new wave.",
+    "grupo": "padres-new-wave"
   },
   {
     "id": "c23-vf-01",
@@ -1368,7 +1422,8 @@
     "puntos": 1,
     "afirmacion": "Rosa afirma que los new wave siguen siendo una tribu urbana muy común en la actualidad.",
     "correcta": false,
-    "explicacion": "Rosa dice que se extinguieron y recuerda sus vestimentas y peinados como algo ridículo."
+    "explicacion": "Rosa dice que se extinguieron y recuerda sus vestimentas y peinados como algo ridículo.",
+    "grupo": "padres-new-wave"
   },
   {
     "id": "c23-ab-01",
@@ -1381,7 +1436,8 @@
     "criterios": [
       "Menciona que los adultos también tuvieron juventud y una identidad o estilo propio.",
       "Explica que la fotografía cambia la forma en que Julito los veía."
-    ]
+    ],
+    "grupo": "padres-new-wave"
   },
   {
     "id": "c24-alt-01",
@@ -1468,7 +1524,8 @@
       "Que trae un regalo para ella."
     ],
     "correcta": 1,
-    "explicacion": "Aarón y Vaca entran juntos hablando de temas veganos."
+    "explicacion": "Aarón y Vaca entran juntos hablando de temas veganos.",
+    "grupo": "marilu-descubre-aaron"
   },
   {
     "id": "c25-vf-01",
@@ -1478,7 +1535,8 @@
     "puntos": 1,
     "afirmacion": "Marilú sabía antes de regresar que Aarón estaba relacionándose con Vaca.",
     "correcta": false,
-    "explicacion": "Su reacción muestra que no conocía la situación y que la noticia la sorprende y enfurece."
+    "explicacion": "Su reacción muestra que no conocía la situación y que la noticia la sorprende y enfurece.",
+    "grupo": "marilu-descubre-aaron"
   },
   {
     "id": "c25-ab-01",
@@ -1491,7 +1549,8 @@
     "criterios": [
       "Identifica emociones como celos, enojo o sorpresa.",
       "Usa al menos una señal del texto: color, amenaza, palabras en japonés o cambio de actitud."
-    ]
+    ],
+    "grupo": "marilu-descubre-aaron"
   },
   {
     "id": "c26-alt-01",
@@ -1689,7 +1748,8 @@
       "No hay mesas en el comedor."
     ],
     "correcta": 1,
-    "explicacion": "La música y el ambiente diferente preparan la sorpresa de la nueva propuesta."
+    "explicacion": "La música y el ambiente diferente preparan la sorpresa de la nueva propuesta.",
+    "grupo": "pistas-cambio-restaurante"
   },
   {
     "id": "c29-vf-01",
@@ -1712,7 +1772,8 @@
     "criterios": [
       "Menciona una primera pista pertinente.",
       "Menciona una segunda pista distinta."
-    ]
+    ],
+    "grupo": "pistas-cambio-restaurante"
   },
   {
     "id": "c30-alt-01",
@@ -1728,7 +1789,8 @@
       "Japón."
     ],
     "correcta": 1,
-    "explicacion": "Moncho explica que aprendió recetas de cocina haitiana."
+    "explicacion": "Moncho explica que aprendió recetas de cocina haitiana.",
+    "grupo": "giro-cocina-creole"
   },
   {
     "id": "c30-alt-02",
@@ -1744,7 +1806,8 @@
       "Porque los clientes solo piden pizza."
     ],
     "correcta": 1,
-    "explicacion": "El estudio de mercado muestra una oportunidad para diferenciarse con cocina haitiana."
+    "explicacion": "El estudio de mercado muestra una oportunidad para diferenciarse con cocina haitiana.",
+    "grupo": "giro-cocina-creole"
   },
   {
     "id": "c30-vf-01",
@@ -1754,7 +1817,8 @@
     "puntos": 1,
     "afirmacion": "Moncho aprende las recetas haitianas junto a dos cocineros que también son aficionados al heavy metal.",
     "correcta": true,
-    "explicacion": "Cocinan juntos mientras escuchan grupos como Iron Maiden y Metallica."
+    "explicacion": "Cocinan juntos mientras escuchan grupos como Iron Maiden y Metallica.",
+    "grupo": "giro-cocina-creole"
   },
   {
     "id": "c30-ab-01",
@@ -1768,7 +1832,8 @@
       "Menciona el estudio de mercado o la competencia existente.",
       "Explica la diferenciación o novedad de la cocina haitiana.",
       "Menciona los conocimientos o colaboración del equipo."
-    ]
+    ],
+    "grupo": "giro-cocina-creole"
   },
   {
     "id": "c31-alt-01",
@@ -1784,7 +1849,8 @@
       "Inventó la imprenta."
     ],
     "correcta": 1,
-    "explicacion": "Julito descubre la importancia de la independencia haitiana y su lucha contra la esclavitud."
+    "explicacion": "Julito descubre la importancia de la independencia haitiana y su lucha contra la esclavitud.",
+    "grupo": "haiti-historia-zombis"
   },
   {
     "id": "c31-alt-02",
@@ -1800,7 +1866,8 @@
       "Rey de las tribus."
     ],
     "correcta": 1,
-    "explicacion": "Julito encuentra que la palabra proviene de lenguas africanas y significa “espíritu de los muertos”."
+    "explicacion": "Julito encuentra que la palabra proviene de lenguas africanas y significa “espíritu de los muertos”.",
+    "grupo": "haiti-historia-zombis"
   },
   {
     "id": "c31-vf-01",
@@ -1810,7 +1877,8 @@
     "puntos": 1,
     "afirmacion": "La caja grande que llega desde España está dirigida al tío Rodrigo.",
     "correcta": true,
-    "explicacion": "El cartero entrega una caja con el nombre de Rodrigo, cuyo contenido queda como misterio."
+    "explicacion": "El cartero entrega una caja con el nombre de Rodrigo, cuyo contenido queda como misterio.",
+    "grupo": "caja-cuadros-rodrigo"
   },
   {
     "id": "c31-ab-01",
@@ -1823,7 +1891,8 @@
     "criterios": [
       "Menciona al menos un aprendizaje histórico o cultural.",
       "Explica que Julito supera una visión superficial o estereotipada."
-    ]
+    ],
+    "grupo": "haiti-historia-zombis"
   },
   {
     "id": "c32-alt-01",
@@ -1839,7 +1908,8 @@
       "Con un disfraz de zombi."
     ],
     "correcta": 1,
-    "explicacion": "Rodrigo lo lleva al mercado persa y lo ayuda a construir una apariencia punk."
+    "explicacion": "Rodrigo lo lleva al mercado persa y lo ayuda a construir una apariencia punk.",
+    "grupo": "beltran-experimento-punk"
   },
   {
     "id": "c32-alt-02",
@@ -1865,7 +1935,8 @@
     "puntos": 1,
     "afirmacion": "Rodrigo realmente llevó a Beltrán a hacerse un tatuaje permanente.",
     "correcta": false,
-    "explicacion": "Rodrigo menciona el tatuaje como una broma para provocar a Rosa."
+    "explicacion": "Rodrigo menciona el tatuaje como una broma para provocar a Rosa.",
+    "grupo": "beltran-experimento-punk"
   },
   {
     "id": "c32-ab-01",
@@ -1878,7 +1949,8 @@
     "criterios": [
       "Identifica la falta de permiso o consulta a los padres.",
       "Explica que simplifica la identidad o no considera consecuencias."
-    ]
+    ],
+    "grupo": "beltran-experimento-punk"
   },
   {
     "id": "c33-alt-01",
@@ -1894,7 +1966,8 @@
       "Que quiere abrir una heladería."
     ],
     "correcta": 1,
-    "explicacion": "Los nombres reflejan directamente la tensión familiar."
+    "explicacion": "Los nombres reflejan directamente la tensión familiar.",
+    "grupo": "rosa-nombres-enojo"
   },
   {
     "id": "c33-alt-02",
@@ -1933,7 +2006,8 @@
     "criterios": [
       "Relaciona los nombres con el enojo o cansancio de Rosa.",
       "Explica que el trabajo le permite expresar esas emociones."
-    ]
+    ],
+    "grupo": "rosa-nombres-enojo"
   },
   {
     "id": "c34-alt-01",
@@ -1965,7 +2039,8 @@
       "Que contiene comida española."
     ],
     "correcta": 1,
-    "explicacion": "Rodrigo y Julio se niegan a revelar el contenido para mantener la sorpresa."
+    "explicacion": "Rodrigo y Julio se niegan a revelar el contenido para mantener la sorpresa.",
+    "grupo": "caja-cuadros-rodrigo"
   },
   {
     "id": "c34-vf-01",
@@ -2004,7 +2079,8 @@
       "Pololeando con Vaca."
     ],
     "correcta": 1,
-    "explicacion": "Aarón dice que Sandra y Marilú lo odian y que quedó con “cero vidas” en el amor."
+    "explicacion": "Aarón dice que Sandra y Marilú lo odian y que quedó con “cero vidas” en el amor.",
+    "grupo": "aaron-conflicto-amoroso"
   },
   {
     "id": "c35-alt-02",
@@ -2020,7 +2096,8 @@
       "No poder comer carne."
     ],
     "correcta": 0,
-    "explicacion": "Aarón enfrenta el regreso de Marilú y Julito teme el regreso de Andrea."
+    "explicacion": "Aarón enfrenta el regreso de Marilú y Julito teme el regreso de Andrea.",
+    "grupo": "aaron-conflicto-amoroso"
   },
   {
     "id": "c35-vf-01",
@@ -2030,7 +2107,8 @@
     "puntos": 1,
     "afirmacion": "Las bromas de Julito logran animar a Aarón, quien le agradece su apoyo.",
     "correcta": false,
-    "explicacion": "Aarón cuestiona cómo puede soportarlo y Julito llega a preguntarse si su humor es tóxico."
+    "explicacion": "Aarón cuestiona cómo puede soportarlo y Julito llega a preguntarse si su humor es tóxico.",
+    "grupo": "aaron-conflicto-amoroso"
   },
   {
     "id": "c35-ab-01",
@@ -2044,7 +2122,8 @@
       "Adopta una postura clara.",
       "Usa una acción o frase pertinente del diálogo.",
       "Explica el efecto que tiene en Aarón."
-    ]
+    ],
+    "grupo": "aaron-conflicto-amoroso"
   },
   {
     "id": "c36-alt-01",
@@ -2060,7 +2139,8 @@
       "Libros de cocina."
     ],
     "correcta": 1,
-    "explicacion": "Los cuadros se usan para decorar el restaurante y luego varios son vendidos."
+    "explicacion": "Los cuadros se usan para decorar el restaurante y luego varios son vendidos.",
+    "grupo": "caja-cuadros-rodrigo"
   },
   {
     "id": "c36-alt-02",
@@ -2076,7 +2156,8 @@
       "Salchipapas fighting."
     ],
     "correcta": 1,
-    "explicacion": "La preparación incluye porotos picantes y se convierte en un éxito."
+    "explicacion": "La preparación incluye porotos picantes y se convierte en un éxito.",
+    "grupo": "exito-reapertura-creole"
   },
   {
     "id": "c36-vf-01",
@@ -2086,7 +2167,8 @@
     "puntos": 1,
     "afirmacion": "Al terminar la noche, los críticos compran casi todos los cuadros de Rodrigo.",
     "correcta": true,
-    "explicacion": "La buena recepción de la comida y el ambiente también favorece la venta de los cuadros."
+    "explicacion": "La buena recepción de la comida y el ambiente también favorece la venta de los cuadros.",
+    "grupo": "exito-reapertura-creole"
   },
   {
     "id": "c36-ab-01",
@@ -2100,7 +2182,8 @@
       "Menciona un primer factor correcto.",
       "Menciona un segundo factor distinto.",
       "Menciona un tercer factor distinto."
-    ]
+    ],
+    "grupo": "exito-reapertura-creole"
   },
   {
     "id": "c37-alt-01",
@@ -2116,7 +2199,8 @@
       "Es quien escribió los libros perdidos."
     ],
     "correcta": 1,
-    "explicacion": "María oculta sus capacidades y actúa como una guagua frente a los adultos."
+    "explicacion": "María oculta sus capacidades y actúa como una guagua frente a los adultos.",
+    "grupo": "maria-superdotada"
   },
   {
     "id": "c37-alt-02",
@@ -2132,7 +2216,8 @@
       "Para engañar a Rodrigo y quitarle comida."
     ],
     "correcta": 0,
-    "explicacion": "Ella quiere vivir su infancia y que continúen alimentándola y cuidándola."
+    "explicacion": "Ella quiere vivir su infancia y que continúen alimentándola y cuidándola.",
+    "grupo": "maria-superdotada"
   },
   {
     "id": "c37-vf-01",
@@ -2142,7 +2227,8 @@
     "puntos": 1,
     "afirmacion": "Julito presenta un plan detallado y serio para enfrentar el regreso de Andrea.",
     "correcta": false,
-    "explicacion": "Solo responde que intentará “aperrar” y vuelve a evitar el tema con chistes."
+    "explicacion": "Solo responde que intentará “aperrar” y vuelve a evitar el tema con chistes.",
+    "grupo": "julito-evita-realidad-humor"
   },
   {
     "id": "c37-ab-01",
@@ -2155,7 +2241,8 @@
     "criterios": [
       "Explica la función de evasión del humor.",
       "Relaciona la explicación con Andrea o con un miedo concreto de Julito."
-    ]
+    ],
+    "grupo": "julito-evita-realidad-humor"
   },
   {
     "id": "c38-alt-01",
@@ -2171,7 +2258,8 @@
       "Rapado."
     ],
     "correcta": 1,
-    "explicacion": "El tinte se destiñe y el pelo vuelve en un 99 % a su color anterior."
+    "explicacion": "El tinte se destiñe y el pelo vuelve en un 99 % a su color anterior.",
+    "grupo": "beltran-experimento-punk"
   },
   {
     "id": "c38-alt-02",
@@ -2197,7 +2285,8 @@
     "puntos": 1,
     "afirmacion": "Después del éxito del restaurante, los padres siguen tan tensos como durante los días posteriores al robo.",
     "correcta": false,
-    "explicacion": "Aparecen descansados, cariñosos y mucho más relajados."
+    "explicacion": "Aparecen descansados, cariñosos y mucho más relajados.",
+    "grupo": "mejora-situacion-familiar"
   },
   {
     "id": "c38-ab-01",
@@ -2210,7 +2299,8 @@
     "criterios": [
       "Menciona una señal económica o laboral de mejora.",
       "Menciona una señal emocional o familiar de mejora."
-    ]
+    ],
+    "grupo": "mejora-situacion-familiar"
   },
   {
     "id": "c39-alt-01",
@@ -2242,7 +2332,8 @@
       "Beltrán se tiñe nuevamente."
     ],
     "correcta": 1,
-    "explicacion": "Rosa por fin tendrá tiempo y espacio para retomar su propio libro."
+    "explicacion": "Rosa por fin tendrá tiempo y espacio para retomar su propio libro.",
+    "grupo": "rodrigo-aporta-dinero"
   },
   {
     "id": "c39-vf-01",
@@ -2252,7 +2343,8 @@
     "puntos": 1,
     "afirmacion": "Rodrigo se queda con todo el dinero de sus cuadros y no entrega nada a la familia.",
     "correcta": false,
-    "explicacion": "Entrega una parte para compensar su estadía y utiliza el resto para continuar viajando."
+    "explicacion": "Entrega una parte para compensar su estadía y utiliza el resto para continuar viajando.",
+    "grupo": "rodrigo-aporta-dinero"
   },
   {
     "id": "c39-ab-01",
@@ -2266,7 +2358,8 @@
       "Menciona la crisis inicial provocada por el robo.",
       "Menciona al menos dos nuevas fuentes de trabajo o ingreso.",
       "Explica que la situación mejora aunque no desaparecen todos los problemas."
-    ]
+    ],
+    "grupo": "mejora-situacion-familiar"
   },
   {
     "id": "c40-alt-01",
@@ -2298,7 +2391,8 @@
       "Piden que vuelva de inmediato a la cocina peruana."
     ],
     "correcta": 1,
-    "explicacion": "Las críticas son muy favorables y celebran la cocina haitiana."
+    "explicacion": "Las críticas son muy favorables y celebran la cocina haitiana.",
+    "grupo": "exito-reapertura-creole"
   },
   {
     "id": "c40-vf-01",
@@ -2502,7 +2596,8 @@
       "Porque olvidó su ropa habitual."
     ],
     "correcta": 1,
-    "explicacion": "La transformación era parte de un plan para hacerle creer a Julito que había cambiado por completo."
+    "explicacion": "La transformación era parte de un plan para hacerle creer a Julito que había cambiado por completo.",
+    "grupo": "broma-andrea-prejuicios"
   },
   {
     "id": "c44-alt-02",
@@ -2518,7 +2613,8 @@
       "Beltrán y Rodrigo."
     ],
     "correcta": 1,
-    "explicacion": "Los tres querían devolverle a Julito parte de las burlas y prejuicios que había mostrado."
+    "explicacion": "Los tres querían devolverle a Julito parte de las burlas y prejuicios que había mostrado.",
+    "grupo": "broma-andrea-prejuicios"
   },
   {
     "id": "c44-vf-01",
@@ -2528,7 +2624,8 @@
     "puntos": 1,
     "afirmacion": "Andrea termina el encuentro diciendo que Julito no le importa y que no quiere volver a verlo.",
     "correcta": false,
-    "explicacion": "Le confiesa que realizó la broma porque él le importa y lo quiere mucho."
+    "explicacion": "Le confiesa que realizó la broma porque él le importa y lo quiere mucho.",
+    "grupo": "broma-andrea-prejuicios"
   },
   {
     "id": "c44-ab-01",
@@ -2541,7 +2638,8 @@
     "criterios": [
       "Relaciona la broma con las burlas o estereotipos previos de Julito.",
       "Explica que Julito experimenta el efecto de juzgar por la apariencia."
-    ]
+    ],
+    "grupo": "broma-andrea-prejuicios"
   },
   {
     "id": "c45-alt-01",
@@ -2557,7 +2655,8 @@
       "La hípster."
     ],
     "correcta": 1,
-    "explicacion": "El cierre sostiene que la familia permanece unida a pesar de todos los cambios."
+    "explicacion": "El cierre sostiene que la familia permanece unida a pesar de todos los cambios.",
+    "grupo": "mensaje-final-familia"
   },
   {
     "id": "c45-alt-02",
@@ -2573,7 +2672,8 @@
       "Aarón se cambia de colegio."
     ],
     "correcta": 1,
-    "explicacion": "El conflicto amoroso queda abierto y las dos niñas continúan en conversaciones."
+    "explicacion": "El conflicto amoroso queda abierto y las dos niñas continúan en conversaciones.",
+    "grupo": "aaron-conflicto-amoroso"
   },
   {
     "id": "c45-vf-01",
@@ -2583,7 +2683,8 @@
     "puntos": 1,
     "afirmacion": "Beltrán conserva el pelo azul y toda su apariencia punk al terminar el libro.",
     "correcta": false,
-    "explicacion": "Solo conserva una chapita punk; el tinte azul desapareció casi por completo."
+    "explicacion": "Solo conserva una chapita punk; el tinte azul desapareció casi por completo.",
+    "grupo": "beltran-experimento-punk"
   },
   {
     "id": "c45-ab-01",
@@ -2597,6 +2698,645 @@
       "Explica que la unión familiar permanece a pesar de los cambios.",
       "Incluye un primer hecho pertinente.",
       "Incluye un segundo hecho distinto."
+    ],
+    "grupo": "mensaje-final-familia"
+  },
+  {
+    "id": "m23-alt-01",
+    "tipo": "alternativa",
+    "cap": 23,
+    "capitulos": [
+      10,
+      12,
+      18,
+      21,
+      23
+    ],
+    "grupo": "adultos-tambien-tienen-identidades-urbanas",
+    "habilidad": "inferencial",
+    "puntos": 1,
+    "pregunta": "Al relacionar a doña Lupe, Guaiquil, Moncho, Anita María y los padres de Julito, ¿qué conclusión es la más adecuada?",
+    "opciones": [
+      "Solo los niños y adolescentes pueden pertenecer a grupos con estilos propios.",
+      "Los adultos también pueden tener o haber tenido estilos, gustos y formas de pertenencia asociados a distintos grupos.",
+      "Todas las personas adultas del libro pertenecen actualmente a la misma tribu urbana.",
+      "Los personajes adultos ocultan sus gustos porque están prohibidos en el colegio."
+    ],
+    "correcta": 1,
+    "explicacion": "El libro muestra adultos hippies, hípsters, metaleros y ex new wave, por lo que la búsqueda de pertenencia no se limita a los niños."
+  },
+  {
+    "id": "m32-alt-01",
+    "tipo": "alternativa",
+    "cap": 32,
+    "capitulos": [
+      15,
+      24,
+      32
+    ],
+    "grupo": "identidad-como-experimentacion",
+    "habilidad": "inferencial",
+    "puntos": 1,
+    "pregunta": "¿Qué hecho representa mejor la idea de Beltrán de que encontrar la identidad puede ser un proceso de prueba y cambio?",
+    "opciones": [
+      "Julio cambia el título de su libro antes de entregarlo.",
+      "Beltrán prueba una apariencia punk después de reflexionar sobre las tribus urbanas.",
+      "La familia compra comida a domicilio un domingo.",
+      "Rebolledo y Monsalve visitan el restaurante sin uniforme."
+    ],
+    "correcta": 1,
+    "explicacion": "Beltrán pasa de hablar sobre identidad a experimentar con una apariencia punk, que después modifica nuevamente."
+  },
+  {
+    "id": "m37-alt-01",
+    "tipo": "alternativa",
+    "cap": 37,
+    "capitulos": [
+      16,
+      27,
+      35,
+      37
+    ],
+    "grupo": "humor-como-defensa-julito",
+    "habilidad": "inferencial",
+    "puntos": 1,
+    "pregunta": "¿Qué patrón se repite cuando Julito se siente incómodo por Andrea, Vaca, Aarón o las preguntas de María?",
+    "opciones": [
+      "Responde con bromas o cambia de tema para evitar enfrentar lo que siente.",
+      "Pide inmediatamente ayuda a sus padres.",
+      "Deja de hablar durante varios días.",
+      "Escribe una carta formal explicando sus emociones."
+    ],
+    "correcta": 0,
+    "explicacion": "En distintas escenas Julito usa el humor, cambia el foco o se retira cuando la conversación se vuelve emocionalmente difícil."
+  },
+  {
+    "id": "m38-alt-01",
+    "tipo": "alternativa",
+    "cap": 38,
+    "capitulos": [
+      2,
+      7,
+      30,
+      36,
+      38
+    ],
+    "grupo": "evolucion-restaurante-completa",
+    "habilidad": "acontecimientos",
+    "puntos": 1,
+    "pregunta": "¿Qué secuencia resume correctamente la evolución del restaurante después del robo?",
+    "opciones": [
+      "Robo y cierre → propuesta de sociedad → cambio a cocina creole → reapertura exitosa y continuidad del negocio peruano en otro local.",
+      "Cambio a cocina creole → robo → cierre definitivo → venta de la casa.",
+      "Propuesta de sociedad → recuperación de todo lo robado → regreso inmediato al menú original.",
+      "Cierre del restaurante → viaje de toda la familia a Haití → apertura de una librería."
+    ],
+    "correcta": 0,
+    "explicacion": "La crisis obliga a reorganizarse: los trabajadores se asocian, el local cambia de propuesta y la reapertura resulta exitosa."
+  },
+  {
+    "id": "m39-vf-01",
+    "tipo": "verdadero_falso",
+    "cap": 39,
+    "capitulos": [
+      2,
+      5,
+      7,
+      30,
+      36,
+      39
+    ],
+    "grupo": "recuperacion-no-depende-policia",
+    "habilidad": "inferencial",
+    "puntos": 1,
+    "afirmacion": "La recuperación económica de la familia depende principalmente de que la policía encuentre y devuelva los objetos robados.",
+    "correcta": false,
+    "explicacion": "La familia se recupera mediante trabajo, colaboración, nuevas ideas, la reapertura del restaurante y la venta de cuadros; los objetos no son recuperados."
+  },
+  {
+    "id": "m40-vf-01",
+    "tipo": "verdadero_falso",
+    "cap": 40,
+    "capitulos": [
+      14,
+      23,
+      32,
+      38,
+      40
+    ],
+    "grupo": "cambios-identidad-no-siempre-permanentes",
+    "habilidad": "inferencial",
+    "puntos": 1,
+    "afirmacion": "El libro muestra que todas las identidades o estilos que prueban los personajes se mantienen de forma permanente.",
+    "correcta": false,
+    "explicacion": "Beltrán deja casi por completo su apariencia punk y Aarón vuelve a comer carne, mientras otros gustos o experiencias quedan como parte de su historia."
+  },
+  {
+    "id": "m44-vf-01",
+    "tipo": "verdadero_falso",
+    "cap": 44,
+    "capitulos": [
+      13,
+      21,
+      44
+    ],
+    "grupo": "prejuicios-reaparecen-en-broma",
+    "habilidad": "inferencial",
+    "puntos": 1,
+    "afirmacion": "La broma que Andrea prepara con Anita María, Cabezas y Mardones retoma el tema de los prejuicios que Julito había mostrado antes.",
+    "correcta": true,
+    "explicacion": "La broma le devuelve a Julito parte de las burlas y suposiciones que hizo sobre otras personas y sus identidades."
+  },
+  {
+    "id": "m45-vf-01",
+    "tipo": "verdadero_falso",
+    "cap": 45,
+    "capitulos": [
+      2,
+      5,
+      7,
+      36,
+      39,
+      45
+    ],
+    "grupo": "soluciones-colectivas-en-la-historia",
+    "habilidad": "reflexion",
+    "puntos": 1,
+    "afirmacion": "A lo largo del libro, las soluciones más importantes aparecen cuando distintos personajes colaboran y no cuando cada uno actúa completamente solo.",
+    "correcta": true,
+    "explicacion": "La reconstrucción, la nueva sociedad, la reapertura y el apoyo dentro de la familia se logran mediante colaboración."
+  },
+  {
+    "id": "m32-ab-01",
+    "tipo": "abierta",
+    "cap": 32,
+    "capitulos": [
+      16,
+      24,
+      32
+    ],
+    "grupo": "comparacion-busqueda-identidad-andrea-beltran",
+    "habilidad": "reflexion",
+    "puntos": 3,
+    "pregunta": "Compara la búsqueda de identidad de Andrea con la experiencia punk de Beltrán. Escribe una semejanza y una diferencia.",
+    "respuestaModelo": "Ambos exploran quiénes son y cómo quieren mostrarse. Andrea lo hace mediante reflexión y distancia mientras está en Argentina; Beltrán lo expresa de forma rápida y visible al probar una apariencia punk con ayuda de Rodrigo.",
+    "criterios": [
+      "Explica una semejanza pertinente entre ambas experiencias.",
+      "Explica una diferencia clara entre la forma en que Andrea y Beltrán buscan su identidad.",
+      "Relaciona la respuesta con hechos concretos del libro."
     ]
+  },
+  {
+    "id": "m39-ab-02",
+    "tipo": "abierta",
+    "cap": 39,
+    "capitulos": [
+      2,
+      5,
+      7,
+      30,
+      36,
+      39
+    ],
+    "grupo": "accion-colectiva-supera-crisis",
+    "habilidad": "reflexion",
+    "puntos": 3,
+    "pregunta": "Explica cómo la colaboración transforma la crisis producida por el robo. Utiliza dos acciones realizadas por personajes distintos.",
+    "respuestaModelo": "Los trabajadores aceptan cobrar menos y proponen una sociedad; luego Laura, Antonia, los Bertos, Moncho y los cocineros haitianos desarrollan una nueva propuesta para el restaurante. Rodrigo aporta con sus cuadros y Rosa y Julio buscan nuevos trabajos o reescriben sus libros.",
+    "criterios": [
+      "Menciona una acción de colaboración pertinente.",
+      "Menciona una segunda acción realizada por otro personaje o grupo.",
+      "Explica cómo esas acciones ayudan a superar la crisis."
+    ]
+  },
+  {
+    "id": "m44-ab-02",
+    "tipo": "abierta",
+    "cap": 44,
+    "capitulos": [
+      13,
+      14,
+      21,
+      27,
+      37,
+      44
+    ],
+    "grupo": "evolucion-julito-frente-diferencias",
+    "habilidad": "reflexion",
+    "puntos": 3,
+    "pregunta": "¿Cómo cambia la manera en que Julito enfrenta a las personas diferentes a él? Compara dos momentos de capítulos distintos.",
+    "respuestaModelo": "Al comienzo Julito juzga o caricaturiza a otros, como a Cabezas y Mardones o a Guaiquil. Más adelante reconoce sus prejuicios, comprende que las minorías merecen respeto y recibe la broma de Andrea como una consecuencia de sus propias burlas.",
+    "criterios": [
+      "Describe un momento inicial en que Julito actúa con prejuicio o burla.",
+      "Describe un momento posterior que muestre reflexión, aprendizaje o una consecuencia de esa actitud.",
+      "Explica claramente el cambio entre ambos momentos."
+    ]
+  },
+  {
+    "id": "m45-ab-02",
+    "tipo": "abierta",
+    "cap": 45,
+    "capitulos": [
+      2,
+      30,
+      36,
+      38,
+      45
+    ],
+    "grupo": "restaurante-y-familia-se-adaptan",
+    "habilidad": "inferencial",
+    "puntos": 3,
+    "pregunta": "Relaciona la transformación del restaurante con la transformación de la familia Cabello. ¿Qué cambia y qué se mantiene en ambos casos?",
+    "respuestaModelo": "El restaurante cambia de cocina peruana a creole y la familia cambia sus trabajos, planes y formas de organizarse. Sin embargo, se mantienen la colaboración, los vínculos afectivos y la capacidad de reunirse y apoyarse.",
+    "criterios": [
+      "Explica al menos un cambio del restaurante.",
+      "Explica al menos un cambio de la familia.",
+      "Identifica algo importante que se mantiene y relaciona ambos procesos."
+    ]
+  },
+  {
+    "id": "p08-par-01",
+    "tipo": "pareados",
+    "cap": 8,
+    "capitulos": [
+      1,
+      2,
+      3,
+      5,
+      8
+    ],
+    "grupo": "personajes-y-roles-iniciales",
+    "habilidad": "relacionar",
+    "puntos": 4,
+    "instruccion": "Relaciona cada personaje con la descripción que le corresponde durante el inicio de la historia.",
+    "pares": [
+      {
+        "id": "julio",
+        "izquierda": "Julio Cabello",
+        "derecha": "Padre de Julito y escritor que pierde el archivo de su libro."
+      },
+      {
+        "id": "rosa",
+        "izquierda": "Rosa Parada",
+        "derecha": "Madre de Julito, escritora y vegetariana."
+      },
+      {
+        "id": "rodrigo",
+        "izquierda": "Rodrigo Cabello",
+        "derecha": "Tío artista que regresa desde España para alojarse con la familia."
+      },
+      {
+        "id": "aaron",
+        "izquierda": "Aarón",
+        "derecha": "Mejor amigo de Julito, conocido por responder con «hum»."
+      }
+    ],
+    "explicacion": "Estos personajes cumplen funciones distintas en la familia y en el círculo cercano de Julito."
+  },
+  {
+    "id": "p16-par-01",
+    "tipo": "pareados",
+    "cap": 16,
+    "capitulos": [
+      10,
+      12,
+      14,
+      16
+    ],
+    "grupo": "personajes-cambios-e-identidad",
+    "habilidad": "relacionar",
+    "puntos": 4,
+    "instruccion": "Relaciona a cada personaje con el cambio o búsqueda personal que vive.",
+    "pares": [
+      {
+        "id": "lupe",
+        "izquierda": "Doña Lupe",
+        "derecha": "Dirige un colegio lleno de incienso, cuarzos y elementos asociados a su estilo hippie."
+      },
+      {
+        "id": "guaiquil",
+        "izquierda": "Profesor Guaiquil",
+        "derecha": "Abandona gran parte de la tecnología y adopta una vida orgánica e hípster."
+      },
+      {
+        "id": "aaron",
+        "izquierda": "Aarón",
+        "derecha": "Decide hacerse vegano por razones de salud, política y preocupación por los animales."
+      },
+      {
+        "id": "andrea",
+        "izquierda": "Andrea",
+        "derecha": "Pide tiempo mientras reflexiona en Argentina sobre quién es y qué quiere."
+      }
+    ],
+    "explicacion": "Cada personaje expresa de manera distinta sus valores, gustos o búsqueda de identidad."
+  },
+  {
+    "id": "p23-par-01",
+    "tipo": "pareados",
+    "cap": 23,
+    "capitulos": [
+      18,
+      21,
+      23
+    ],
+    "grupo": "adultos-y-tribus-urbanas",
+    "habilidad": "relacionar",
+    "puntos": 4,
+    "instruccion": "Relaciona a cada personaje adulto con el estilo o tribu urbana de su historia.",
+    "pares": [
+      {
+        "id": "moncho",
+        "izquierda": "Moncho",
+        "derecha": "Fue metalero y conserva su afición por bandas como Iron Maiden."
+      },
+      {
+        "id": "anita",
+        "izquierda": "Anita María",
+        "derecha": "Cuenta que fue hippie, usaba poncho, bolso artesanal y charango."
+      },
+      {
+        "id": "rosa",
+        "izquierda": "Rosa",
+        "derecha": "Aparece en una fotografía antigua con una apariencia new wave."
+      },
+      {
+        "id": "julio-rodrigo",
+        "izquierda": "Julio y Rodrigo",
+        "derecha": "También aparecen jóvenes con peinados y ropa propios del estilo new wave."
+      }
+    ],
+    "explicacion": "El libro muestra que varios adultos también participaron en grupos o estilos urbanos cuando eran jóvenes."
+  },
+  {
+    "id": "p30-par-01",
+    "tipo": "pareados",
+    "cap": 30,
+    "capitulos": [
+      2,
+      7,
+      22,
+      30
+    ],
+    "grupo": "etapas-transformacion-restaurante",
+    "habilidad": "relacionar",
+    "puntos": 4,
+    "instruccion": "Relaciona cada etapa del restaurante con lo que ocurre en ella.",
+    "pares": [
+      {
+        "id": "robo",
+        "izquierda": "Después del robo",
+        "derecha": "El local queda sin productos ni equipamiento y no puede funcionar con normalidad."
+      },
+      {
+        "id": "sociedad",
+        "izquierda": "Propuesta de los trabajadores",
+        "derecha": "Ofrecen reducir temporalmente sus sueldos y organizar una sociedad."
+      },
+      {
+        "id": "identidad-inca",
+        "izquierda": "Conversación sobre sus raíces",
+        "derecha": "Los trabajadores se declaran orgullosos descendientes del inca Pachacutec."
+      },
+      {
+        "id": "giro-creole",
+        "izquierda": "Nueva estrategia comercial",
+        "derecha": "Proponen reemplazar el menú peruano por una oferta de cocina haitiana."
+      }
+    ],
+    "explicacion": "El restaurante pasa de una crisis a una reorganización y luego a una propuesta culinaria diferente."
+  },
+  {
+    "id": "p36-par-01",
+    "tipo": "pareados",
+    "cap": 36,
+    "capitulos": [
+      31,
+      32,
+      33,
+      36
+    ],
+    "grupo": "hechos-y-consecuencias-reapertura",
+    "habilidad": "relacionar",
+    "puntos": 4,
+    "instruccion": "Relaciona cada hecho con la consecuencia que tiene más adelante.",
+    "pares": [
+      {
+        "id": "caja",
+        "izquierda": "Llega una caja desde España",
+        "derecha": "Se descubre que contiene cuadros de Rodrigo para decorar el nuevo restaurante."
+      },
+      {
+        "id": "pelo-azul",
+        "izquierda": "Beltrán vuelve con el pelo azul",
+        "derecha": "Rosa se enfurece y él comienza un breve experimento punk."
+      },
+      {
+        "id": "nombres-punk",
+        "izquierda": "Rosa inventa nombres como «tío traidor»",
+        "derecha": "Su trabajo refleja el enojo que siente por las acciones de Rodrigo."
+      },
+      {
+        "id": "criticos",
+        "izquierda": "Los críticos asisten a la reapertura",
+        "derecha": "La nueva comida tiene éxito y varios compran los cuadros expuestos."
+      }
+    ],
+    "explicacion": "Los acontecimientos de varios capítulos se conectan y desembocan en la reapertura exitosa."
+  },
+  {
+    "id": "p37-par-01",
+    "tipo": "pareados",
+    "cap": 37,
+    "capitulos": [
+      16,
+      27,
+      35,
+      37
+    ],
+    "grupo": "personajes-y-preocupaciones-afectivas",
+    "habilidad": "relacionar",
+    "puntos": 4,
+    "instruccion": "Relaciona a cada personaje con la preocupación afectiva que enfrenta.",
+    "pares": [
+      {
+        "id": "julito",
+        "izquierda": "Julito",
+        "derecha": "Teme cómo volverá Andrea y evita hablar seriamente de lo que siente."
+      },
+      {
+        "id": "aaron",
+        "izquierda": "Aarón",
+        "derecha": "No sabe qué ocurrirá con Marilú y Vaca después de relacionarse con ambas."
+      },
+      {
+        "id": "vaca",
+        "izquierda": "Vaca",
+        "derecha": "Reconoce que la situación con Aarón y Marilú sí le causa tristeza."
+      },
+      {
+        "id": "maria",
+        "izquierda": "María",
+        "derecha": "Se preocupa porque su hermano no tiene un plan para enfrentar el regreso de Andrea."
+      }
+    ],
+    "explicacion": "Los personajes viven conflictos emocionales distintos, pero relacionados con vínculos y decisiones personales."
+  },
+  {
+    "id": "p40-par-01",
+    "tipo": "pareados",
+    "cap": 40,
+    "capitulos": [
+      18,
+      30,
+      36,
+      39,
+      40
+    ],
+    "grupo": "aportes-recuperacion-familiar",
+    "habilidad": "relacionar",
+    "puntos": 4,
+    "instruccion": "Relaciona a cada personaje con su aporte a la recuperación económica o laboral de la familia.",
+    "pares": [
+      {
+        "id": "rosa",
+        "izquierda": "Rosa",
+        "derecha": "Obtiene ingresos inventando nombres para maquillajes y luego para helados."
+      },
+      {
+        "id": "moncho",
+        "izquierda": "Moncho",
+        "derecha": "Aprende recetas haitianas y crea preparaciones como las salchipapas zombis."
+      },
+      {
+        "id": "rodrigo",
+        "izquierda": "Rodrigo",
+        "derecha": "Decora el restaurante con sus cuadros, los vende y entrega parte del dinero."
+      },
+      {
+        "id": "julio",
+        "izquierda": "Julio",
+        "derecha": "Reemplaza su idea del súper salami por otro libro que logra terminar y vender."
+      }
+    ],
+    "explicacion": "La recuperación se construye mediante aportes diferentes de varios personajes."
+  },
+  {
+    "id": "p44-par-01",
+    "tipo": "pareados",
+    "cap": 44,
+    "capitulos": [
+      13,
+      21,
+      28,
+      42,
+      44
+    ],
+    "grupo": "personajes-y-lecciones-diversidad",
+    "habilidad": "relacionar",
+    "puntos": 4,
+    "instruccion": "Relaciona a cada personaje o pareja con la idea sobre diversidad que comunica.",
+    "pares": [
+      {
+        "id": "cabezas-mardones",
+        "izquierda": "Cabezas y Mardones",
+        "derecha": "Explican que su identidad no es una moda elegida como una tribu urbana."
+      },
+      {
+        "id": "anita",
+        "izquierda": "Anita María",
+        "derecha": "Afirma que las diferencias permiten que las personas se complementen."
+      },
+      {
+        "id": "andrea",
+        "izquierda": "Andrea",
+        "derecha": "Usa una apariencia dark como broma para enfrentar las suposiciones de Julito."
+      },
+      {
+        "id": "julito",
+        "izquierda": "Julito",
+        "derecha": "Debe reconocer que suele imaginar y juzgar a otros antes de comprenderlos."
+      }
+    ],
+    "explicacion": "Distintos personajes ayudan a desarrollar el tema del respeto por las diferencias y la revisión de los prejuicios."
+  },
+  {
+    "id": "p45-par-01",
+    "tipo": "pareados",
+    "cap": 45,
+    "capitulos": [
+      2,
+      5,
+      7,
+      36,
+      45
+    ],
+    "grupo": "problemas-y-respuestas-colectivas",
+    "habilidad": "relacionar",
+    "puntos": 4,
+    "instruccion": "Relaciona cada problema con la respuesta que permite enfrentarlo.",
+    "pares": [
+      {
+        "id": "libros-perdidos",
+        "izquierda": "Se pierden los archivos de los libros",
+        "derecha": "Julio y Rosa deben reconstruir sus proyectos mediante memoria y escritura."
+      },
+      {
+        "id": "restaurante-vacio",
+        "izquierda": "El restaurante queda desmantelado",
+        "derecha": "Los trabajadores ayudan a reconstruirlo y ofrecen reorganizar el negocio."
+      },
+      {
+        "id": "menu-sin-novedad",
+        "izquierda": "La comida peruana deja de ser una novedad comercial",
+        "derecha": "Los socios desarrollan una propuesta de cocina creole."
+      },
+      {
+        "id": "cambios-familiares",
+        "izquierda": "La familia vive robos, discusiones y cambios personales",
+        "derecha": "Sus integrantes se apoyan y vuelven a reunirse al final."
+      }
+    ],
+    "explicacion": "La historia contrapone distintos problemas con respuestas basadas en adaptación, trabajo y apoyo."
+  },
+  {
+    "id": "p45-par-02",
+    "tipo": "pareados",
+    "cap": 45,
+    "capitulos": [
+      14,
+      23,
+      32,
+      38,
+      40,
+      45
+    ],
+    "grupo": "experiencias-identidad-y-resultados",
+    "habilidad": "relacionar",
+    "puntos": 4,
+    "instruccion": "Relaciona cada experiencia de identidad o pertenencia con su resultado en la historia.",
+    "pares": [
+      {
+        "id": "aaron-vegano",
+        "izquierda": "Aarón se hace vegano",
+        "derecha": "La decisión no se mantiene de forma estricta y termina comiendo un churrasco."
+      },
+      {
+        "id": "padres-new-wave",
+        "izquierda": "Los padres y Rodrigo fueron new wave",
+        "derecha": "La fotografía muestra una etapa juvenil que hoy recuerdan como parte del pasado."
+      },
+      {
+        "id": "beltran-punk",
+        "izquierda": "Beltrán prueba una apariencia punk",
+        "derecha": "El pelo vuelve casi a su color y solo conserva una chapita como recuerdo."
+      },
+      {
+        "id": "familia-tribu",
+        "izquierda": "Julito piensa en la familia como una tribu",
+        "derecha": "Concluye que ese vínculo permanece a pesar de los cambios de sus integrantes."
+      }
+    ],
+    "explicacion": "El libro diferencia las experiencias temporales de estilo de los vínculos y aprendizajes que permanecen."
   }
 ]
