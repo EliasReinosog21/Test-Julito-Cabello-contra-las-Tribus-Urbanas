@@ -19,14 +19,6 @@ Prueba luego:
 
 Aplicación de comprensión lectora para los 45 capítulos de *Julito Cabello contra las tribus urbanas*. El banco se mantiene en el servidor, las alternativas se mezclan y las respuestas abiertas reciben una evaluación provisional mediante **Vercel AI Gateway**.
 
-## Qué cambia respecto de la versión con OpenAI
-
-- Ya no se utiliza `OPENAI_API_KEY`.
-- En un despliegue de Vercel se utiliza automáticamente `VERCEL_OIDC_TOKEN`.
-- No es necesario guardar una clave secreta para producción.
-- El modelo predeterminado es `google/gemini-3.1-flash-lite`.
-- El nivel gratuito de AI Gateway entrega créditos mensuales dentro de los modelos habilitados para ese nivel.
-- Si el Gateway no responde o se agota el límite, el test conserva la respuesta para revisión docente.
 
 ## Estructura del repositorio
 
