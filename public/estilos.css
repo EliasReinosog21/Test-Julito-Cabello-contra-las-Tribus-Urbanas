@@ -319,3 +319,45 @@ button:disabled{cursor:wait;opacity:.72}
   .btn,.nav,.toolbar,footer{display:none!important}
   .card{box-shadow:none;break-inside:avoid}
 }
+
+/* Términos pareados */
+.pareados-ayuda{margin-bottom:12px}
+.pareados-lista{display:grid;gap:12px}
+.pareado-fila{
+  display:grid;
+  grid-template-columns:minmax(180px,.8fr) minmax(240px,1.2fr);
+  gap:12px;
+  align-items:center;
+  padding:12px;
+  border:3px solid var(--tinta);
+  border-radius:14px;
+  background:#fff;
+  box-shadow:var(--sombra-sm);
+}
+.pareado-fila.correcta{background:#DFF6E4;border-color:var(--verde)}
+.pareado-fila.incorrecta{background:#FFE0E0;border-color:var(--rojo)}
+.pareado-termino{display:flex;align-items:flex-start;gap:9px;font-weight:900;line-height:1.35}
+.pareado-numero{
+  display:inline-flex;
+  align-items:center;
+  justify-content:center;
+  width:28px;
+  height:28px;
+  min-width:28px;
+  border:2px solid var(--tinta);
+  border-radius:50%;
+  background:var(--cian);
+  font-family:'Luckiest Guy',Impact,cursive;
+}
+.pareado-select{font-size:14px;padding:10px}
+.lista-correccion-pareados,.revision-pareados{margin:10px 0 0 22px}
+.lista-correccion-pareados li,.revision-pareados li{margin-bottom:8px}
+.revision-pareados .par-correcto{color:#166b2c}
+.revision-pareados .par-incorrecto{color:#9f2424}
+.chapita.pareados{background:#DDF8F4}
+.chapita.pareados.parcial{background:#FFF3C4}
+.detalle-respuesta.pareados{background:#F0FCFA}
+
+@media(max-width:680px){
+  .pareado-fila{grid-template-columns:1fr}
+}

@@ -23,6 +23,7 @@
     personajes:{nombre:'Personajes',icono:'👤',color:'var(--rosa)'},
     acontecimientos:{nombre:'Acontecimientos',icono:'⚡',color:'var(--amarillo)'},
     vocabulario:{nombre:'Vocabulario',icono:'📖',color:'var(--verde)'},
-    reflexion:{nombre:'Reflexión y fundamentación',icono:'✍️',color:'var(--lila)'}
+    reflexion:{nombre:'Reflexión y fundamentación',icono:'✍️',color:'var(--lila)'},
+    relacionar:{nombre:'Relación de información',icono:'🔗',color:'var(--cian)'}
   };
 })();

@@ -161,6 +161,20 @@
           <label class="campo" for="puntaje-${escapar(respuesta.preguntaId)}">Ajuste docente (máximo ${respuesta.puntosMaximos})</label>
           <input type="number" id="puntaje-${escapar(respuesta.preguntaId)}" class="puntaje-manual" data-qid="${escapar(respuesta.preguntaId)}" min="0" max="${Number(respuesta.puntosMaximos || 0)}" step="1" value="${valorManual}" placeholder="${placeholder}">
           <p class="ayuda">Deja el campo vacío para conservar el puntaje de IA. Si no hubo IA, vacío significa pendiente.</p>`;
+      }else if(respuesta.tipo==='pareados'){
+        const detalle = Array.isArray(respuesta.detallePareados) ? respuesta.detallePareados : [];
+        const filas = detalle.map(item=>`
+          <li class="${item.correcta?'par-correcto':'par-incorrecto'}">
+            <strong>${item.correcta?'✓':'✗'} ${escapar(item.izquierda)}</strong><br>
+            Respuesta: ${escapar(item.seleccionada)}
+            ${item.correcta?'':`<br>Correcta: ${escapar(item.respuestaCorrecta)}`}
+          </li>`).join('');
+        bloque.className = `detalle-respuesta pareados ${respuesta.correcta?'correcta':'incorrecta'}`;
+        bloque.innerHTML = `
+          <h3>🔗 ${indice+1}. ${escapar(respuesta.enunciado)}</h3>
+          <p><strong>Resultado:</strong> ${respuesta.puntosObtenidos}/${respuesta.puntosMaximos} relaciones correctas.</p>
+          <ul class="revision-pareados">${filas}</ul>
+          <p class="ayuda">${escapar(respuesta.explicacion || '')}</p>`;
       }else{
         bloque.className = `detalle-respuesta ${respuesta.correcta?'correcta':'incorrecta'}`;
         bloque.innerHTML = `
